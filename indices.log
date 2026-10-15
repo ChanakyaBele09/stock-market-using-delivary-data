@@ -1,0 +1,21 @@
+[OK] NIFTY500: 501 rows | Columns: ['Company Name', 'Industry', 'Symbol', 'Series', 'ISIN Code']
+[OK] NIFTY_TOTAL_MARKET: 752 rows | Columns: ['Company Name', 'Industry', 'Symbol', 'Series', 'ISIN Code']
+[OK] NIFTY_MICROCAP: 251 rows | Columns: ['Company Name', 'Industry', 'Symbol', 'Series', 'ISIN Code']
+[OK] NIFTY_SMALLCAP: 250 rows | Columns: ['Company Name', 'Industry', 'Symbol', 'Series', 'ISIN Code']
+[OK] NIFTY_MIDCAP: 150 rows | Columns: ['Company Name', 'Industry', 'Symbol', 'Series', 'ISIN Code']
+[404] NIFTY_LARGEMID: https://archives.nseindia.com/content/indices/ind_niftylargemidc250list.csv
+
+Combined: 1904 rows
+Sample:
+       Symbol                    Industry
+0     360ONE          Financial Services
+1    3MINDIA                 Diversified
+2        ABB               Capital Goods
+3        ACC      Construction Materials
+4  ACMESOLAR                       Power
+5     AIAENG               Capital Goods
+6  APLAPOLLO               Capital Goods
+7     AUBANK          Financial Services
+8        AWL  Fast Moving Consumer Goods
+9  AADHARHFC          Financial Services
+Saved to nse_index_combined.csv

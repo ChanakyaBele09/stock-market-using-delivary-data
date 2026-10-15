@@ -1,0 +1,42 @@
+[404] NIFTY_ALL_SHARE
+[OK] NIFTY_TOTAL_MARKET: 752 rows
+[OK] NIFTY500: 501 rows
+[OK] NIFTY_MICROCAP250: 251 rows
+[OK] NIFTY_SMALLCAP250: 250 rows
+[OK] NIFTY_SMALLCAP50: 50 rows
+[OK] NIFTY_MIDCAP150: 150 rows
+[OK] NIFTY_MIDCAP50: 50 rows
+[404] NIFTY_LARGEMID250
+[OK] NIFTY_AUTO: 15 rows
+[OK] NIFTY_BANK: 14 rows
+[OK] NIFTY_ENERGY: 40 rows
+[OK] NIFTY_FINSERV: 20 rows
+[OK] NIFTY_FMCG: 16 rows
+[OK] NIFTY_IT: 10 rows
+[OK] NIFTY_MEDIA: 10 rows
+[OK] NIFTY_METAL: 15 rows
+[OK] NIFTY_PHARMA: 20 rows
+[OK] NIFTY_PSU_BANK: 12 rows
+[OK] NIFTY_REALTY: 10 rows
+[404] NIFTY_HEALTHCARE
+[OK] NIFTY_INFRA: 30 rows
+[404] NIFTY_PSE
+[404] NIFTY_OIL_GAS
+[OK] NIFTY_CONSUMER_DURABLES: 15 rows
+[404] NIFTY_CAPITAL_MARKETS
+
+Total unique symbols: 756 (from 2231 rows)
+Saved to nse_index_combined.csv
+
+Sample:
+       Symbol                        Industry
+0      360ONE              Financial Services
+1     3MINDIA                     Diversified
+2         ABB                   Capital Goods
+3         ACC          Construction Materials
+4   ACMESOLAR                           Power
+5         AGI                   Capital Goods
+6      AIAENG                   Capital Goods
+7   APLAPOLLO                   Capital Goods
+8  ASKAUTOLTD  Automobile and Auto Components
+9      AUBANK              Financial Services

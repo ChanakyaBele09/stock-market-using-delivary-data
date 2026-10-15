@@ -1,0 +1,6 @@
+2026-03-14 20:25:34,979  INFO  Using bhavcopy date: 2026-03-13, symbols to process: 1000
+2026-03-14 20:25:34,979  INFO  Warming NSE session...
+2026-03-14 20:25:35,117  INFO    Homepage: 403, cookies: ['AKA_A2']
+2026-03-14 20:25:37,538  INFO    Market page: 200, cookies: ['AKA_A2', '_abck', 'bm_sz', 'nsit']
+2026-03-14 20:25:39,039  INFO  Session ready.
+2026-03-14 20:25:55,146  INFO    VCL: issued=183,752,220  ff_factor=0.835289
