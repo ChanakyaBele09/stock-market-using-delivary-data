@@ -1,0 +1,18 @@
+ETL Process Started for date: 2026-02-19
+Downloading NSE data for 2026-02-19 from https://nsearchives.nseindia.com/products/content/sec_bhavdata_full_19022026.csv...
+DEBUG: NSE Raw Rows: 3109
+Downloading BSE data for 2026-02-19...
+BSE Price OK: 4726 rows
+BSE Delivery merged: 4726 rows
+Sector mapping loaded: 5376 symbols
+
+Sample Data (First 5 rows):
+       SYMBOL                                 SECTOR
+0   20MICRONS                    Industrial Minerals
+1  21STCENMGM  Other Capital Market related Services
+2      360ONE                     Financial Services
+3   3IINFOLTD      Computers - Software & Consulting
+4     3MINDIA                            Diversified
+Data saved locally to D:\Trading Workflows\data\processed_data_2026-02-19.csv
+Uploading 7142 rows to Google Sheet 'Market_Intelligence_System'...
+Upload successful! 7142 rows written to 'Market_Intelligence_System'.

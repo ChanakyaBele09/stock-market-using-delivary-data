@@ -1,0 +1,50 @@
+Traceback (most recent call last):
+ETL Process Started for date: 2026-02-19
+Downloading NSE data for 2026-02-19 from https://nsearchives.nseindia.com/products/content/sec_bhavdata_full_19022026.csv...
+DEBUG: NSE Raw Rows: 3109
+Downloading BSE data for 2026-02-19...
+BSE Price OK: 4726 rows
+BSE Delivery merged: 4726 rows
+Sector mapping loaded: 5376 symbols
+BSE map (Screener): 4516 entries
+BSE sector map total: 4516 SC_CODEs
+BSE SC_CODE mapping filled 615 more sectors
+
+Sample Data (First 5 rows):
+       SYMBOL                                 SECTOR
+0   20MICRONS                    Industrial Minerals
+1  21STCENMGM  Other Capital Market related Services
+2      360ONE                     Financial Services
+3   3IINFOLTD      Computers - Software & Consulting
+4     3MINDIA                            Diversified
+Data saved locally to D:\Trading Workflows\data\processed_data_2026-02-19.csv
+Uploading 2416 rows to Google Sheet 'Market_Intelligence_System' -> tab 'NSE'...
+Upload successful! 2416 rows written to tab 'NSE'.
+  File "D:\Trading Workflows\src\main.py", line 682, in <module>
+Uploading 4726 rows to Google Sheet 'Market_Intelligence_System' -> tab 'BSE'...
+Upload successful! 4726 rows written to tab 'BSE'.
+Sector mapping loaded: 5376 symbols
+BSE map (Screener): 4516 entries
+BSE sector map total: 4516 SC_CODEs
+Combined: 4971 unique stocks
+DB ready: D:\Trading Workflows\data\stock_data.db
+    main()
+  File "D:\Trading Workflows\src\main.py", line 623, in main
+    stockdb.save_to_db(combined_df)
+  File "D:\Trading Workflows\src\db.py", line 89, in save_to_db
+    df_db.to_sql('daily_bhavcopy', conn, if_exists='append', index=False,
+  File "D:\Trading Workflows\.venv\Lib\site-packages\pandas\core\generic.py", line 3052, in to_sql
+    return sql.to_sql(
+           ^^^^^^^^^^^
+  File "D:\Trading Workflows\.venv\Lib\site-packages\pandas\io\sql.py", line 841, in to_sql
+    return pandas_sql.to_sql(
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\Trading Workflows\.venv\Lib\site-packages\pandas\io\sql.py", line 2880, in to_sql
+    return table.insert(chunksize, method)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Trading Workflows\.venv\Lib\site-packages\pandas\io\sql.py", line 1122, in insert
+    num_inserted = exec_insert(conn, keys, chunk_iter)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Trading Workflows\.venv\Lib\site-packages\pandas\io\sql.py", line 2579, in _execute_insert_multi
+    conn.execute(self.insert_statement(num_rows=len(data_list)), flattened_data)
+sqlite3.IntegrityError: UNIQUE constraint failed: daily_bhavcopy.date, daily_bhavcopy.symbol

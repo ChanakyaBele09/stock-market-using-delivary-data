@@ -1,0 +1,26 @@
+Total pages: 23
+
+--- Page 1 ---
+  Tables found: 0
+  RAW TEXT (first 500 chars):
+NSE Indices Ltd.
+Industry Classification Structure
+July 2023
+
+--- Page 2 ---
+  Tables found: 1
+  Table 1 rows: 11
+    ['MES_Code', 'Macro\nEconomic\nSector', 'Sect_Code', 'Sector', 'Ind_Code', 'Industry', 'Basic_Ind_Code', 'Basic Industry', 'Definition']
+    ['IN01', 'Commodities', 'IN0101', 'Chemicals', 'IN010101', 'Chemicals &\nPetrochemicals', 'IN010101001', 'Commodity\nChemicals', 'Manufacturers of basic and industrial\nchemicals like synthetic fibres, films,\norganic and inorganic chemicals etc.']
+    ['', '', '', '', '', '', 'IN010101002', 'Specialty\nChemicals', 'Manufacturers of chemicals used in the\nmanufacture of a variety of products, like\nfine chemicals, additives, advanced\npolymers, explosives, adhesives, printing\ninks, sealants, dyes, pigments, coatings\netc.']
+    ['', '', '', '', '', '', 'IN010101003', 'Carbon Black', 'Manufacturers of carbon black']
+    ['', '', '', '', '', '', 'IN010101004', 'Dyes And Pigments', 'Manufacturer, supplier and distributor of\ndyes and pigments']
+
+--- Page 3 ---
+  Tables found: 1
+  Table 1 rows: 15
+    ['MES_Code', 'Macro\nEconomic\nSector', 'Sect_Code', 'Sector', 'Ind_Code', 'Industry', 'Basic_Ind_Code', 'Basic Industry', 'Definition']
+    ['', '', '', '', '', '', 'IN010102002', 'Pesticides &\nAgrochemicals', 'Manufacturers of agrochemicals and\npesticides']
+    ['', '', 'IN0102', 'Construction\nMaterials', 'IN010203', 'Cement & Cement\nProducts', 'IN010203001', 'Cement & Cement\nProducts', 'Manufacturer, supplier and distributor of\ncement, cement products']
+    ['', '', '', '', 'IN010204', 'Other\nConstruction\nMaterials', 'IN010204001', 'Other Construction\nMaterials', 'Other construction material such as\nsupplier of sand etc. It excludes\ncompanies dealing with granites, marbles,\netc. which are classified as separate basic\nindustry under Consumer Discretionary']
+    ['', '', 'IN0103', 'Metals &\nMining', 'IN010301', 'Ferrous Metals', 'IN010301001', 'Ferro & Silica\nManganese', 'Manufacturers and distributor of ferro\nsilico manganese like ferro alloys,\nbriquette, fly ash bricks etc.']

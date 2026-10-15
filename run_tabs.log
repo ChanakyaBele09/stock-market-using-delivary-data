@@ -1,0 +1,30 @@
+Traceback (most recent call last):
+ETL Process Started for date: 2026-02-19
+Downloading NSE data for 2026-02-19 from https://nsearchives.nseindia.com/products/content/sec_bhavdata_full_19022026.csv...
+DEBUG: NSE Raw Rows: 3109
+Downloading BSE data for 2026-02-19...
+BSE Price OK: 4726 rows
+BSE Delivery merged: 4726 rows
+Sector mapping loaded: 5376 symbols
+BSE map (Screener): 4516 entries
+BSE sector map total: 4516 SC_CODEs
+BSE SC_CODE mapping filled 615 more sectors
+
+Sample Data (First 5 rows):
+       SYMBOL                                 SECTOR
+0   20MICRONS                    Industrial Minerals
+1  21STCENMGM  Other Capital Market related Services
+2      360ONE                     Financial Services
+3   3IINFOLTD      Computers - Software & Consulting
+4     3MINDIA                            Diversified
+Data saved locally to D:\Trading Workflows\data\processed_data_2026-02-19.csv
+  File "D:\Trading Workflows\src\main.py", line 486, in <module>
+    main()
+  File "D:\Trading Workflows\src\main.py", line 478, in main
+    upload_to_gsheet(nse_data, SHEET_NAME, CREDENTIALS_FILE, worksheet_name='NSE')
+  File "D:\Trading Workflows\src\main.py", line 395, in upload_to_gsheet
+    print(f"Uploading {len(df)} rows to Google Sheet '{sheet_name}' \u2192 tab '{worksheet_name}'...")
+  File "C:\Users\Ninad\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 65: character maps to <undefined>
