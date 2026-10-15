@@ -1,0 +1,26 @@
+Download links found in BhavCopy.aspx:
+  https://www.bseindia.com/download/BhavCopy/Equity/BhavCopy_BSE_CM_0_0_0_20260220_F_0000.CSV
+  https://www.bseindia.com/download/BhavCopy/Equity/EQ_ISINCODE_200226_T0.CSV
+  https://www.bseindia.com/download/BhavCopy/Equity/BSE_EQ_BHAVCOPY_20022026_T0.ZIP
+  https://www.bseindia.com/download/Bhavcopy/Derivative/MS_20260220-01.csv
+  https://www.bseindia.com/download/Bhavcopy/Derivative/BhavCopy_BSE_FO_0_0_0_20260220_F_0000.CSV
+  https://www.bseindia.com/bsedata/CIML_bhavcopy/BFX_MS2_20260220.csv
+  https://www.bseindia.com/bsedata/CIML_bhavcopy/BhavCopy_BSE_CD_0_0_0_20260220_F_0000.CSV
+  https://www.bseindia.com/download/Bhavcopy/Debt/DEBTBHAVCOPY20022026.zip
+  https://www.bseindia.com/download/Bhavcopy/SLB/SQ121225_CSV.ZIP
+  https://www.bseindia.com/bsedata/SLBNEWBhavCopy/BSESLB_BhavCopy_20260220.csv
+  https://www.bseindia.com/download/Bhavcopy/DebtClean/DB020124_C_CSV_CSV.zip
+  https://www.bseindia.com/Download/BhavCopy/Commodity/Csv/BhavCopy_BSE_CO_0_0_0_20260220_F_0000.CSV
+  https://www.bseindia.com/download/BhavCopy/EGR/EGR_BHAVCOPY_011122.CSV
+  https://www.bseindia.com/bsedata/Index_Bhavcopy/INDEXSummary_20022026.csv
+  /downloads1/UDiFF_BhavCopy_format.xlsx
+
+JS ZIP refs: ['https://www.bseindia.com/download/BhavCopy/Equity/BSE_EQ_BHAVCOPY_20022026_T0.ZIP', 'https://www.bseindia.com/download/Bhavcopy/Debt/DEBTBHAVCOPY20022026.zip', 'https://www.bseindia.com/download/Bhavcopy/SLB/SQ121225_CSV.ZIP', 'https://www.bseindia.com/download/Bhavcopy/DebtClean/DB020124_C_CSV_CSV.zip']
+
+
+Trying BSE data archive paths...
+[404] https://www.bseindia.com/download/BhavCopy/Equity/EQ190226_CSV.ZIP  | size=8581
+[404] https://www.bseindia.com/download/BhavCopy/Equity/  | size=8951
+[ERR] https://data.bseindia.com/download/BhavCopy/Equity/EQ190226_CSV.ZIP: HTTPSConnectionPool(host='data.bseindia.com', port=443): Max retries exceeded with url: /download/BhavCopy/Equity/EQ190226_CSV.ZIP (Caused by NameResolutionError("HTTPSConnection(host='data.bseindia.com', port=443): Failed to resolve 'data.bseindia.com' ([Errno 11001] getaddrinfo failed)"))
+[404] https://www.bseindia.com/BSEDATA/gross/2026/SCBSEALL0219.TXT  | size=8563
+[404] https://www.bseindia.com/download/BhavCopy/Equity/BhavCopy_Eq_19022026.zip  | size=8613

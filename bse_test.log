@@ -1,0 +1,12 @@
+Getting BSE session...
+[404] https://www.bseindia.com/download/BhavCopy/Equity/EQ190226_CSV.ZIP
+[404] https://www.bseindia.com/download/BhavCopy/Equity/EQ19022026_CSV.ZIP
+[404] https://www.bseindia.com/download/BhavCopy/Equity/BSE_CM_BhavCopy20260219.ZIP
+[200] https://api.bseindia.com/BseIndiaAPI/api/BhavCopyDwnld/w?strdate=19/02/2026
+  Content-Type: text/html
+  Content-Length: 1814 bytes
+  ZIP error: File is not a zip file
+  First 200 bytes: b'\r\n\r\n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\r\n\r\n<html xmlns="http://www.w3.org/1999/xhtml">\r\n<head runat="server"> \r\n  '
+[404] https://www.bseindia.com/download/BhavCopy/Equity/EQ_ISINCODE_190226.ZIP
+[404] https://www.bseindia.com/download/BhavCopy/Equity/BhavCopy_20260219.ZIP
+[404] https://www.bseindia.com/download/BhavCopy/Equity/EQ190226ALLOT.ZIP

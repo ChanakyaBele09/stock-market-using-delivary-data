@@ -1,0 +1,12 @@
+[200] https://api.bseindia.com/BseIndiaAPI/api/BhavCopyDwnld/w?strdate=19/02/2026
+  Content-Type: text/html
+  Size: 1814 bytes
+  First bytes: b'\r\n\r\n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\r\n\r\n<html xmlns="http://www.w3.org/1999/xhtml">\r\n<head runat="server"> \r\n  '
+[200] https://api.bseindia.com/BseIndiaAPI/api/BhavCopyDwnld/w?strdate=20/02/2026
+  Content-Type: text/html
+  Size: 1814 bytes
+  First bytes: b'\r\n\r\n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\r\n\r\n<html xmlns="http://www.w3.org/1999/xhtml">\r\n<head runat="server"> \r\n  '
+[200] https://www.bseindia.com/markets/MarketInfo/BhavCopy.aspx
+  Content-Type: text/html; charset=utf-8
+  Size: 67659 bytes
+  First bytes: b'\r\n<!DOCTYPE html>\r\n\r\n<!DOCTYPE html>\r\n\r\n<html xmlns="http://www.w3.org/1999/xhtml">\r\n<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Content-Type" content='

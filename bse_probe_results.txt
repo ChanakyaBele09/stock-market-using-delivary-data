@@ -1,0 +1,14 @@
+[bulk_list_1] 200 JSON | keys=['SCRIP_CD', 'Scrip_Name', 'Status', 'GROUP', 'FACE_VALUE', 'ISIN_NUMBER', 'INDUSTRY', 'scrip_id'] | ff_kws=['MktCap', 'Mcap', 'ISIN', 'isin']
+  MktCap: ...d", "Mktcap": "126834.58"}, {"SCRIP_CD": "500003", "Scrip_Name": ...
+  Mcap: ...INDCEMCAP", "Segment": "Equity", "NSURL": "https://www.bseindia.c...
+  ISIN: ...0", "ISIN_NUMBER": "INE117A01022", "INDUSTRY": null, "scrip_id": ...
+[bulk_list_2] 200 HTML/non-JSON | first200:   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  <html xmlns="http://www.w3.org/1999/xhtml"> <head runat="server">    
+[ind_exch_sum_eq] 200 HTML/non-JSON | first200:   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  <html xmlns="http://www.w3.org/1999/xhtml"> <head runat="server">    
+[ind_exch_sum] 200 HTML/non-JSON | first200:   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  <html xmlns="http://www.w3.org/1999/xhtml"> <head runat="server">    
+[get_quotes] 200 HTML/non-JSON | first200:   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  <html xmlns="http://www.w3.org/1999/xhtml"> <head runat="server">    
+[mkt_summary] 200 HTML/non-JSON | first200:   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  <html xmlns="http://www.w3.org/1999/xhtml"> <head runat="server">    
+[company_header] 200 HTML/non-JSON | first200:   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  <html xmlns="http://www.w3.org/1999/xhtml"> <head runat="server">    
+[scrip_details] 200 HTML/non-JSON | first200:   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  <html xmlns="http://www.w3.org/1999/xhtml"> <head runat="server">    
+[summary_data] 200 HTML/non-JSON | first200:   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  <html xmlns="http://www.w3.org/1999/xhtml"> <head runat="server">    
+[isin_lookup] 200 HTML/non-JSON | first200:   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  <html xmlns="http://www.w3.org/1999/xhtml"> <head runat="server">    
+[isin_lookup2] 200 HTML/non-JSON | first200:   <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  <html xmlns="http://www.w3.org/1999/xhtml"> <head runat="server">    

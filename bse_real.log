@@ -1,0 +1,21 @@
+
+--- Testing date: 19022026 ---
+[200] size=805935 | BhavCopy_BSE_CM_0_0_0_20260219_F_0000.CSV
+  Content-Type: application/octet-stream
+  Rows: 4726 | Cols: ['TradDt', 'BizDt', 'Sgmt', 'Src', 'FinInstrmTp', 'FinInstrmId', 'ISIN', 'TckrSymb']
+[404] size=8705 | BSE_EQ_BHAVCOPY_19022026_T0.ZIP
+[404] size=8681 | EQ_ISINCODE_190226_T0.CSV
+
+--- Testing date: 20022026 ---
+[200] size=804074 | BhavCopy_BSE_CM_0_0_0_20260220_F_0000.CSV
+  Content-Type: application/octet-stream
+  Rows: 4715 | Cols: ['TradDt', 'BizDt', 'Sgmt', 'Src', 'FinInstrmTp', 'FinInstrmId', 'ISIN', 'TckrSymb']
+[200] size=360 | BSE_EQ_BHAVCOPY_20022026_T0.ZIP
+[200] size=150 | EQ_ISINCODE_200226_T0.CSV
+
+--- Testing date: 18022026 ---
+[200] size=816617 | BhavCopy_BSE_CM_0_0_0_20260218_F_0000.CSV
+  Content-Type: application/octet-stream
+  Rows: 4787 | Cols: ['TradDt', 'BizDt', 'Sgmt', 'Src', 'FinInstrmTp', 'FinInstrmId', 'ISIN', 'TckrSymb']
+[200] size=360 | BSE_EQ_BHAVCOPY_18022026_T0.ZIP
+[200] size=150 | EQ_ISINCODE_180226_T0.CSV

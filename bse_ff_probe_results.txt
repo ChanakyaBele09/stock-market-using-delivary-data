@@ -1,0 +1,19 @@
+
+=== BSE FF MCap / Shareholding endpoints ===
+  [mktwatch_bulk] 200 HTML | '\r \r <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.'
+  [mktcap_segment] 200 HTML | '\r \r <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.'
+  [mktcap_report] 200 HTML | '\r \r <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.'
+  [ff_mktcap] 200 HTML | '\r \r <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.'
+  [equity_ff] 200 HTML | '\r \r <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.'
+  [shold_current] 200 HTML | '\r \r <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.'
+  [shold_bulk] 200 HTML | '\r \r <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.'
+  [promoter_hold] 200 HTML | '\r \r <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.'
+  [nse_shold] 404 HTML | '<!DOCTYPE html> <html lang="en"> <head>   <meta charset="UTF-8">   <title>Resource not found</title> </head> <body style'
+  [sensex_comp] 200 HTML | '\r \r <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.'
+  [sensex30] 200 HTML | '\r \r <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.'
+  [bhav_plus] 200 HTML | '\r \r <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.'
+  [bse_public_shold] 200 HTML | '\r \r <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.'
+  [bse_mcap_ff_list] 200 JSON | ff=['FF'] | list[4827], sample_keys=['SCRIP_CD', 'Scrip_Name', 'Status', 'GROUP', 'FACE_VALU
+    FF: 'ffshore Services Ltd-$", "Status": "Active", "GROUP": "X", "FACE_VALUE": "10.00"'
+
+Done.
