@@ -1,0 +1,48 @@
+Initializing NSE session...
+[ERR] NIFTY 50: All items in data must be of type dict, found float
+[ERR] NIFTY NEXT 50: All items in data must be of type dict, found float
+[ERR] NIFTY 100: All items in data must be of type dict, found float
+[ERR] NIFTY 200: All items in data must be of type dict, found float
+[ERR] NIFTY 500: All items in data must be of type dict, found float
+[ERR] NIFTY MIDCAP 50: All items in data must be of type dict, found float
+[ERR] NIFTY MIDCAP 100: All items in data must be of type dict, found float
+[ERR] NIFTY MIDCAP 150: All items in data must be of type dict, found float
+[ERR] NIFTY SMALLCAP 50: All items in data must be of type dict, found float
+[ERR] NIFTY SMALLCAP 100: All items in data must be of type dict, found float
+[ERR] NIFTY SMALLCAP 250: All items in data must be of type dict, found float
+[ERR] NIFTY MICROCAP 250: All items in data must be of type dict, found float
+[ERR] NIFTY TOTAL MARKET: All items in data must be of type dict, found float
+[ERR] NIFTY AUTO: All items in data must be of type dict, found float
+[ERR] NIFTY BANK: All items in data must be of type dict, found float
+[ERR] NIFTY ENERGY: All items in data must be of type dict, found float
+[ERR] NIFTY FINANCIAL SERVICES: All items in data must be of type dict, found float
+[ERR] NIFTY FMCG: All items in data must be of type dict, found float
+[ERR] NIFTY IT: All items in data must be of type dict, found float
+[ERR] NIFTY MEDIA: All items in data must be of type dict, found float
+[ERR] NIFTY METAL: All items in data must be of type dict, found float
+[ERR] NIFTY PHARMA: All items in data must be of type dict, found float
+[ERR] NIFTY PSU BANK: All items in data must be of type dict, found float
+[ERR] NIFTY REALTY: All items in data must be of type dict, found float
+[ERR] NIFTY INFRASTRUCTURE: All items in data must be of type dict, found float
+[ERR] NIFTY CONSUMER DURABLES: All items in data must be of type dict, found float
+[OK] SECURITIES IN F&O: 207 symbols with industry
+[ERR] NIFTY COMMODITIES: All items in data must be of type dict, found float
+[ERR] NIFTY INDIA CONSUMPTION: All items in data must be of type dict, found float
+[ERR] NIFTY CPSE: All items in data must be of type dict, found float
+[ERR] NIFTY DIVIDEND OPPORTUNITIES 50: All items in data must be of type dict, found float
+[ERR] NIFTY MNC: All items in data must be of type dict, found float
+[ERR] NIFTY GROWTH SECTORS 15: All items in data must be of type dict, found float
+[ERR] NIFTY100 LIQUID 15: All items in data must be of type dict, found float
+[ERR] NIFTY ALPHA 50: All items in data must be of type dict, found float
+[ERR] NIFTY HIGH BETA 50: All items in data must be of type dict, found float
+[ERR] NIFTY LOW VOLATILITY 50: All items in data must be of type dict, found float
+[ERR] NIFTY QUALITY LOW-VOLATILITY 30: All items in data must be of type dict, found float
+[ERR] NIFTY ALPHA QUALITY LOW-VOLATILITY 30: All items in data must be of type dict, found float
+[ERR] NIFTY ALPHA QUALITY VALUE LOW-VOLATILITY 30: All items in data must be of type dict, found float
+Traceback (most recent call last):
+  File "D:\Trading Workflows\fetch_nse_api.py", line 76, in <module>
+    print(f"\n\u2705 Total unique symbols with industry: {len(combined)} (from {before} rows)")
+  File "C:\Users\Ninad\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 2: character maps to <undefined>

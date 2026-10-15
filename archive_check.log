@@ -1,0 +1,19 @@
+=== NSE sec_bhavdata_full availability ===
+  2026-02-19: HTTP 200  size=20
+  2025-12-31: HTTP 200  size=20
+  2025-09-30: HTTP 200  size=20
+  2025-06-30: HTTP 200  size=20
+  2025-03-31: HTTP 404  size=3425
+  2024-12-31: HTTP 200  size=20
+  2024-09-30: HTTP 200  size=20
+  2024-06-28: HTTP 200  size=20
+  2024-03-28: HTTP 200  size=20
+
+=== BSE BhavCopy availability ===
+  2026-02-19: HTTP 200
+  2025-12-31: HTTP 200
+  2025-09-30: HTTP 200
+  2025-06-30: HTTP 200
+  2025-03-31: HTTP 404
+  2024-12-31: HTTP 200
+  2024-09-30: HTTP 200

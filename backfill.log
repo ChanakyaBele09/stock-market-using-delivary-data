@@ -1,0 +1,520 @@
+DB ready: D:\Trading Workflows\data\stock_data.db
+Date range: 2025-02-21 to 2026-02-20
+Total trading days: 261 | Already in DB: 1 | To fetch: 260
+[  1/260] 2025-02-21 ... ERROR: 'int' object has no attribute 'fillna'
+[  2/260] 2025-02-24 ... DB saved: 4726 rows for 2025-02-24 | Total in DB: 9697
+OK (4726 stocks)
+[  3/260] 2025-02-25 ... ERROR: 'int' object has no attribute 'fillna'
+[  4/260] 2025-02-26 ... SKIP (no data)
+[  5/260] 2025-02-27 ... DB saved: 4636 rows for 2025-02-27 | Total in DB: 14333
+OK (4636 stocks)
+[  6/260] 2025-02-28 ... DB saved: 4640 rows for 2025-02-28 | Total in DB: 18973
+OK (4640 stocks)
+[  7/260] 2025-03-03 ... DB saved: 4818 rows for 2025-03-03 | Total in DB: 23791
+OK (4818 stocks)
+[  8/260] 2025-03-04 ... DB saved: 4627 rows for 2025-03-04 | Total in DB: 28418
+OK (4627 stocks)
+[  9/260] 2025-03-05 ... DB saved: 4625 rows for 2025-03-05 | Total in DB: 33043
+OK (4625 stocks)
+[ 10/260] 2025-03-06 ... DB saved: 4620 rows for 2025-03-06 | Total in DB: 37663
+OK (4620 stocks)
+[ 11/260] 2025-03-07 ... DB saved: 4651 rows for 2025-03-07 | Total in DB: 42314
+OK (4651 stocks)
+[ 12/260] 2025-03-10 ... DB saved: 4774 rows for 2025-03-10 | Total in DB: 47088
+OK (4774 stocks)
+[ 13/260] 2025-03-11 ... DB saved: 4650 rows for 2025-03-11 | Total in DB: 51738
+OK (4650 stocks)
+[ 14/260] 2025-03-12 ... ERROR: 'int' object has no attribute 'fillna'
+[ 15/260] 2025-03-13 ... DB saved: 4634 rows for 2025-03-13 | Total in DB: 56372
+OK (4634 stocks)
+[ 16/260] 2025-03-14 ... SKIP (no data)
+[ 17/260] 2025-03-17 ... ERROR: 'int' object has no attribute 'fillna'
+[ 18/260] 2025-03-18 ... DB saved: 4732 rows for 2025-03-18 | Total in DB: 61104
+OK (4732 stocks)
+[ 19/260] 2025-03-19 ... DB saved: 4717 rows for 2025-03-19 | Total in DB: 65821
+OK (4717 stocks)
+[ 20/260] 2025-03-20 ... DB saved: 4711 rows for 2025-03-20 | Total in DB: 70532
+OK (4711 stocks)
+[ 21/260] 2025-03-21 ... DB saved: 4724 rows for 2025-03-21 | Total in DB: 75256
+OK (4724 stocks)
+[ 22/260] 2025-03-24 ... DB saved: 4877 rows for 2025-03-24 | Total in DB: 80133
+OK (4877 stocks)
+[ 23/260] 2025-03-25 ... DB saved: 4721 rows for 2025-03-25 | Total in DB: 84854
+OK (4721 stocks)
+[ 24/260] 2025-03-26 ... ERROR: 'int' object has no attribute 'fillna'
+[ 25/260] 2025-03-27 ... DB saved: 4674 rows for 2025-03-27 | Total in DB: 89528
+OK (4674 stocks)
+[ 26/260] 2025-03-28 ... ERROR: 'int' object has no attribute 'fillna'
+[ 27/260] 2025-03-31 ... SKIP (no data)
+[ 28/260] 2025-04-01 ... DB saved: 4747 rows for 2025-04-01 | Total in DB: 94275
+OK (4747 stocks)
+[ 29/260] 2025-04-02 ... DB saved: 4644 rows for 2025-04-02 | Total in DB: 98919
+OK (4644 stocks)
+[ 30/260] 2025-04-03 ... DB saved: 4667 rows for 2025-04-03 | Total in DB: 103586
+OK (4667 stocks)
+[ 31/260] 2025-04-04 ... DB saved: 4622 rows for 2025-04-04 | Total in DB: 108208
+OK (4622 stocks)
+[ 32/260] 2025-04-07 ... DB saved: 4841 rows for 2025-04-07 | Total in DB: 113049
+OK (4841 stocks)
+[ 33/260] 2025-04-08 ... DB saved: 4634 rows for 2025-04-08 | Total in DB: 117683
+OK (4634 stocks)
+[ 34/260] 2025-04-09 ... DB saved: 4602 rows for 2025-04-09 | Total in DB: 122285
+OK (4602 stocks)
+[ 35/260] 2025-04-10 ... SKIP (no data)
+[ 36/260] 2025-04-11 ... DB saved: 4674 rows for 2025-04-11 | Total in DB: 126959
+OK (4674 stocks)
+[ 37/260] 2025-04-14 ... SKIP (no data)
+[ 38/260] 2025-04-15 ... DB saved: 4863 rows for 2025-04-15 | Total in DB: 131822
+OK (4863 stocks)
+[ 39/260] 2025-04-16 ... DB saved: 4650 rows for 2025-04-16 | Total in DB: 136472
+OK (4650 stocks)
+[ 40/260] 2025-04-17 ... DB saved: 4687 rows for 2025-04-17 | Total in DB: 141159
+OK (4687 stocks)
+[ 41/260] 2025-04-18 ... SKIP (no data)
+[ 42/260] 2025-04-21 ... DB saved: 4833 rows for 2025-04-21 | Total in DB: 145992
+OK (4833 stocks)
+[ 43/260] 2025-04-22 ... DB saved: 4709 rows for 2025-04-22 | Total in DB: 150701
+OK (4709 stocks)
+[ 44/260] 2025-04-23 ... DB saved: 4677 rows for 2025-04-23 | Total in DB: 155378
+OK (4677 stocks)
+[ 45/260] 2025-04-24 ... DB saved: 4612 rows for 2025-04-24 | Total in DB: 159990
+OK (4612 stocks)
+[ 46/260] 2025-04-25 ... DB saved: 4593 rows for 2025-04-25 | Total in DB: 164583
+OK (4593 stocks)
+[ 47/260] 2025-04-28 ... DB saved: 4756 rows for 2025-04-28 | Total in DB: 169339
+OK (4756 stocks)
+[ 48/260] 2025-04-29 ... DB saved: 4604 rows for 2025-04-29 | Total in DB: 173943
+OK (4604 stocks)
+[ 49/260] 2025-04-30 ... DB saved: 4596 rows for 2025-04-30 | Total in DB: 178539
+OK (4596 stocks)
+  Refreshing sessions...
+[ 50/260] 2025-05-01 ... SKIP (no data)
+[ 51/260] 2025-05-02 ... DB saved: 4636 rows for 2025-05-02 | Total in DB: 183175
+OK (4636 stocks)
+[ 52/260] 2025-05-05 ... DB saved: 4807 rows for 2025-05-05 | Total in DB: 187982
+OK (4807 stocks)
+[ 53/260] 2025-05-06 ... DB saved: 4599 rows for 2025-05-06 | Total in DB: 192581
+OK (4599 stocks)
+[ 54/260] 2025-05-07 ... DB saved: 4583 rows for 2025-05-07 | Total in DB: 197164
+OK (4583 stocks)
+[ 55/260] 2025-05-08 ... DB saved: 4561 rows for 2025-05-08 | Total in DB: 201725
+OK (4561 stocks)
+[ 56/260] 2025-05-09 ... DB saved: 4529 rows for 2025-05-09 | Total in DB: 206254
+OK (4529 stocks)
+[ 57/260] 2025-05-12 ... DB saved: 4786 rows for 2025-05-12 | Total in DB: 211040
+OK (4786 stocks)
+[ 58/260] 2025-05-13 ... DB saved: 4659 rows for 2025-05-13 | Total in DB: 215699
+OK (4659 stocks)
+[ 59/260] 2025-05-14 ... DB saved: 4647 rows for 2025-05-14 | Total in DB: 220346
+OK (4647 stocks)
+[ 60/260] 2025-05-15 ... DB saved: 4642 rows for 2025-05-15 | Total in DB: 224988
+OK (4642 stocks)
+[ 61/260] 2025-05-16 ... DB saved: 4672 rows for 2025-05-16 | Total in DB: 229660
+OK (4672 stocks)
+[ 62/260] 2025-05-19 ... DB saved: 4802 rows for 2025-05-19 | Total in DB: 234462
+OK (4802 stocks)
+[ 63/260] 2025-05-20 ... DB saved: 4668 rows for 2025-05-20 | Total in DB: 239130
+OK (4668 stocks)
+[ 64/260] 2025-05-21 ... DB saved: 4667 rows for 2025-05-21 | Total in DB: 243797
+OK (4667 stocks)
+[ 65/260] 2025-05-22 ... DB saved: 4619 rows for 2025-05-22 | Total in DB: 248416
+OK (4619 stocks)
+[ 66/260] 2025-05-23 ... DB saved: 4632 rows for 2025-05-23 | Total in DB: 253048
+OK (4632 stocks)
+[ 67/260] 2025-05-26 ... DB saved: 4791 rows for 2025-05-26 | Total in DB: 257839
+OK (4791 stocks)
+[ 68/260] 2025-05-27 ... DB saved: 4663 rows for 2025-05-27 | Total in DB: 262502
+OK (4663 stocks)
+[ 69/260] 2025-05-28 ... DB saved: 4634 rows for 2025-05-28 | Total in DB: 267136
+OK (4634 stocks)
+[ 70/260] 2025-05-29 ... DB saved: 4638 rows for 2025-05-29 | Total in DB: 271774
+OK (4638 stocks)
+[ 71/260] 2025-05-30 ... DB saved: 4669 rows for 2025-05-30 | Total in DB: 276443
+OK (4669 stocks)
+[ 72/260] 2025-06-02 ... DB saved: 4845 rows for 2025-06-02 | Total in DB: 281288
+OK (4845 stocks)
+[ 73/260] 2025-06-03 ... DB saved: 4737 rows for 2025-06-03 | Total in DB: 286025
+OK (4737 stocks)
+[ 74/260] 2025-06-04 ... DB saved: 4707 rows for 2025-06-04 | Total in DB: 290732
+OK (4707 stocks)
+[ 75/260] 2025-06-05 ... DB saved: 4701 rows for 2025-06-05 | Total in DB: 295433
+OK (4701 stocks)
+[ 76/260] 2025-06-06 ... DB saved: 4764 rows for 2025-06-06 | Total in DB: 300197
+OK (4764 stocks)
+[ 77/260] 2025-06-09 ... DB saved: 4966 rows for 2025-06-09 | Total in DB: 305163
+OK (4966 stocks)
+[ 78/260] 2025-06-10 ... DB saved: 4756 rows for 2025-06-10 | Total in DB: 309919
+OK (4756 stocks)
+[ 79/260] 2025-06-11 ... DB saved: 4766 rows for 2025-06-11 | Total in DB: 314685
+OK (4766 stocks)
+[ 80/260] 2025-06-12 ... DB saved: 4668 rows for 2025-06-12 | Total in DB: 319353
+OK (4668 stocks)
+[ 81/260] 2025-06-13 ... DB saved: 4684 rows for 2025-06-13 | Total in DB: 324037
+OK (4684 stocks)
+[ 82/260] 2025-06-16 ... DB saved: 4824 rows for 2025-06-16 | Total in DB: 328861
+OK (4824 stocks)
+[ 83/260] 2025-06-17 ... DB saved: 4661 rows for 2025-06-17 | Total in DB: 333522
+OK (4661 stocks)
+[ 84/260] 2025-06-18 ... DB saved: 4656 rows for 2025-06-18 | Total in DB: 338178
+OK (4656 stocks)
+[ 85/260] 2025-06-19 ... DB saved: 4652 rows for 2025-06-19 | Total in DB: 342830
+OK (4652 stocks)
+[ 86/260] 2025-06-20 ... DB saved: 4662 rows for 2025-06-20 | Total in DB: 347492
+OK (4662 stocks)
+[ 87/260] 2025-06-23 ... DB saved: 4783 rows for 2025-06-23 | Total in DB: 352275
+OK (4783 stocks)
+[ 88/260] 2025-06-24 ... DB saved: 4727 rows for 2025-06-24 | Total in DB: 357002
+OK (4727 stocks)
+[ 89/260] 2025-06-25 ... DB saved: 4684 rows for 2025-06-25 | Total in DB: 361686
+OK (4684 stocks)
+[ 90/260] 2025-06-26 ... DB saved: 4695 rows for 2025-06-26 | Total in DB: 366381
+OK (4695 stocks)
+[ 91/260] 2025-06-27 ... DB saved: 4691 rows for 2025-06-27 | Total in DB: 371072
+OK (4691 stocks)
+[ 92/260] 2025-06-30 ... DB saved: 4871 rows for 2025-06-30 | Total in DB: 375943
+OK (4871 stocks)
+[ 93/260] 2025-07-01 ... DB saved: 4733 rows for 2025-07-01 | Total in DB: 380676
+OK (4733 stocks)
+[ 94/260] 2025-07-02 ... DB saved: 4747 rows for 2025-07-02 | Total in DB: 385423
+OK (4747 stocks)
+[ 95/260] 2025-07-03 ... DB saved: 4775 rows for 2025-07-03 | Total in DB: 390198
+OK (4775 stocks)
+[ 96/260] 2025-07-04 ... DB saved: 4745 rows for 2025-07-04 | Total in DB: 394943
+OK (4745 stocks)
+[ 97/260] 2025-07-07 ... DB saved: 4838 rows for 2025-07-07 | Total in DB: 399781
+OK (4838 stocks)
+[ 98/260] 2025-07-08 ... DB saved: 4755 rows for 2025-07-08 | Total in DB: 404536
+OK (4755 stocks)
+[ 99/260] 2025-07-09 ... DB saved: 4720 rows for 2025-07-09 | Total in DB: 409256
+OK (4720 stocks)
+  Refreshing sessions...
+[100/260] 2025-07-10 ... DB saved: 4683 rows for 2025-07-10 | Total in DB: 413939
+OK (4683 stocks)
+[101/260] 2025-07-11 ... DB saved: 4738 rows for 2025-07-11 | Total in DB: 418677
+OK (4738 stocks)
+[102/260] 2025-07-14 ... DB saved: 4898 rows for 2025-07-14 | Total in DB: 423575
+OK (4898 stocks)
+[103/260] 2025-07-15 ... DB saved: 4750 rows for 2025-07-15 | Total in DB: 428325
+OK (4750 stocks)
+[104/260] 2025-07-16 ... DB saved: 4757 rows for 2025-07-16 | Total in DB: 433082
+OK (4757 stocks)
+[105/260] 2025-07-17 ... DB saved: 4715 rows for 2025-07-17 | Total in DB: 437797
+OK (4715 stocks)
+[106/260] 2025-07-18 ... DB saved: 4742 rows for 2025-07-18 | Total in DB: 442539
+OK (4742 stocks)
+[107/260] 2025-07-21 ... DB saved: 4905 rows for 2025-07-21 | Total in DB: 447444
+OK (4905 stocks)
+[108/260] 2025-07-22 ... DB saved: 4766 rows for 2025-07-22 | Total in DB: 452210
+OK (4766 stocks)
+[109/260] 2025-07-23 ... DB saved: 4812 rows for 2025-07-23 | Total in DB: 457022
+OK (4812 stocks)
+[110/260] 2025-07-24 ... DB saved: 4814 rows for 2025-07-24 | Total in DB: 461836
+OK (4814 stocks)
+[111/260] 2025-07-25 ... DB saved: 4727 rows for 2025-07-25 | Total in DB: 466563
+OK (4727 stocks)
+[112/260] 2025-07-28 ... DB saved: 4927 rows for 2025-07-28 | Total in DB: 471490
+OK (4927 stocks)
+[113/260] 2025-07-29 ... DB saved: 4766 rows for 2025-07-29 | Total in DB: 476256
+OK (4766 stocks)
+[114/260] 2025-07-30 ... DB saved: 4734 rows for 2025-07-30 | Total in DB: 480990
+OK (4734 stocks)
+[115/260] 2025-07-31 ... DB saved: 4722 rows for 2025-07-31 | Total in DB: 485712
+OK (4722 stocks)
+[116/260] 2025-08-01 ... DB saved: 4754 rows for 2025-08-01 | Total in DB: 490466
+OK (4754 stocks)
+[117/260] 2025-08-04 ... DB saved: 4901 rows for 2025-08-04 | Total in DB: 495367
+OK (4901 stocks)
+[118/260] 2025-08-05 ... DB saved: 4795 rows for 2025-08-05 | Total in DB: 500162
+OK (4795 stocks)
+[119/260] 2025-08-06 ... DB saved: 4812 rows for 2025-08-06 | Total in DB: 504974
+OK (4812 stocks)
+[120/260] 2025-08-07 ... DB saved: 4816 rows for 2025-08-07 | Total in DB: 509790
+OK (4816 stocks)
+[121/260] 2025-08-08 ... DB saved: 4754 rows for 2025-08-08 | Total in DB: 514544
+OK (4754 stocks)
+[122/260] 2025-08-11 ... DB saved: 4953 rows for 2025-08-11 | Total in DB: 519497
+OK (4953 stocks)
+[123/260] 2025-08-12 ... DB saved: 4791 rows for 2025-08-12 | Total in DB: 524288
+OK (4791 stocks)
+[124/260] 2025-08-13 ... DB saved: 4768 rows for 2025-08-13 | Total in DB: 529056
+OK (4768 stocks)
+[125/260] 2025-08-14 ... DB saved: 4767 rows for 2025-08-14 | Total in DB: 533823
+OK (4767 stocks)
+[126/260] 2025-08-15 ... SKIP (no data)
+[127/260] 2025-08-18 ... DB saved: 4963 rows for 2025-08-18 | Total in DB: 538786
+OK (4963 stocks)
+[128/260] 2025-08-19 ... DB saved: 4800 rows for 2025-08-19 | Total in DB: 543586
+OK (4800 stocks)
+[129/260] 2025-08-20 ... DB saved: 4850 rows for 2025-08-20 | Total in DB: 548436
+OK (4850 stocks)
+[130/260] 2025-08-21 ... DB saved: 4803 rows for 2025-08-21 | Total in DB: 553239
+OK (4803 stocks)
+[131/260] 2025-08-22 ... DB saved: 4790 rows for 2025-08-22 | Total in DB: 558029
+OK (4790 stocks)
+[132/260] 2025-08-25 ... DB saved: 4973 rows for 2025-08-25 | Total in DB: 563002
+OK (4973 stocks)
+[133/260] 2025-08-26 ... DB saved: 4798 rows for 2025-08-26 | Total in DB: 567800
+OK (4798 stocks)
+[134/260] 2025-08-27 ... SKIP (no data)
+[135/260] 2025-08-28 ... DB saved: 4813 rows for 2025-08-28 | Total in DB: 572613
+OK (4813 stocks)
+[136/260] 2025-08-29 ... DB saved: 4770 rows for 2025-08-29 | Total in DB: 577383
+OK (4770 stocks)
+[137/260] 2025-09-01 ... DB saved: 4972 rows for 2025-09-01 | Total in DB: 582355
+OK (4972 stocks)
+[138/260] 2025-09-02 ... DB saved: 4881 rows for 2025-09-02 | Total in DB: 587236
+OK (4881 stocks)
+[139/260] 2025-09-03 ... DB saved: 4859 rows for 2025-09-03 | Total in DB: 592095
+OK (4859 stocks)
+[140/260] 2025-09-04 ... DB saved: 4846 rows for 2025-09-04 | Total in DB: 596941
+OK (4846 stocks)
+[141/260] 2025-09-05 ... DB saved: 4796 rows for 2025-09-05 | Total in DB: 601737
+OK (4796 stocks)
+[142/260] 2025-09-08 ... DB saved: 4978 rows for 2025-09-08 | Total in DB: 606715
+OK (4978 stocks)
+[143/260] 2025-09-09 ... DB saved: 4851 rows for 2025-09-09 | Total in DB: 611566
+OK (4851 stocks)
+[144/260] 2025-09-10 ... DB saved: 4853 rows for 2025-09-10 | Total in DB: 616419
+OK (4853 stocks)
+[145/260] 2025-09-11 ... DB saved: 4870 rows for 2025-09-11 | Total in DB: 621289
+OK (4870 stocks)
+[146/260] 2025-09-12 ... DB saved: 4874 rows for 2025-09-12 | Total in DB: 626163
+OK (4874 stocks)
+[147/260] 2025-09-15 ... DB saved: 4991 rows for 2025-09-15 | Total in DB: 631154
+OK (4991 stocks)
+[148/260] 2025-09-16 ... DB saved: 4909 rows for 2025-09-16 | Total in DB: 636063
+OK (4909 stocks)
+[149/260] 2025-09-17 ... DB saved: 4925 rows for 2025-09-17 | Total in DB: 640988
+OK (4925 stocks)
+  Refreshing sessions...
+[150/260] 2025-09-18 ... DB saved: 4954 rows for 2025-09-18 | Total in DB: 645942
+OK (4954 stocks)
+[151/260] 2025-09-19 ... DB saved: 4880 rows for 2025-09-19 | Total in DB: 650822
+OK (4880 stocks)
+[152/260] 2025-09-22 ... DB saved: 5043 rows for 2025-09-22 | Total in DB: 655865
+OK (5043 stocks)
+[153/260] 2025-09-23 ... DB saved: 4860 rows for 2025-09-23 | Total in DB: 660725
+OK (4860 stocks)
+[154/260] 2025-09-24 ... DB saved: 4897 rows for 2025-09-24 | Total in DB: 665622
+OK (4897 stocks)
+[155/260] 2025-09-25 ... DB saved: 4891 rows for 2025-09-25 | Total in DB: 670513
+OK (4891 stocks)
+[156/260] 2025-09-26 ... DB saved: 4825 rows for 2025-09-26 | Total in DB: 675338
+OK (4825 stocks)
+[157/260] 2025-09-29 ... DB saved: 4965 rows for 2025-09-29 | Total in DB: 680303
+OK (4965 stocks)
+[158/260] 2025-09-30 ... DB saved: 4853 rows for 2025-09-30 | Total in DB: 685156
+OK (4853 stocks)
+[159/260] 2025-10-01 ... DB saved: 4893 rows for 2025-10-01 | Total in DB: 690049
+OK (4893 stocks)
+[160/260] 2025-10-02 ... SKIP (no data)
+[161/260] 2025-10-03 ... DB saved: 4915 rows for 2025-10-03 | Total in DB: 694964
+OK (4915 stocks)
+[162/260] 2025-10-06 ... DB saved: 5069 rows for 2025-10-06 | Total in DB: 700033
+OK (5069 stocks)
+[163/260] 2025-10-07 ... DB saved: 4935 rows for 2025-10-07 | Total in DB: 704968
+OK (4935 stocks)
+[164/260] 2025-10-08 ... DB saved: 4968 rows for 2025-10-08 | Total in DB: 709936
+OK (4968 stocks)
+[165/260] 2025-10-09 ... DB saved: 4940 rows for 2025-10-09 | Total in DB: 714876
+OK (4940 stocks)
+[166/260] 2025-10-10 ... DB saved: 4948 rows for 2025-10-10 | Total in DB: 719824
+OK (4948 stocks)
+[167/260] 2025-10-13 ... DB saved: 5063 rows for 2025-10-13 | Total in DB: 724887
+OK (5063 stocks)
+[168/260] 2025-10-14 ... DB saved: 4968 rows for 2025-10-14 | Total in DB: 729855
+OK (4968 stocks)
+[169/260] 2025-10-15 ... DB saved: 4933 rows for 2025-10-15 | Total in DB: 734788
+OK (4933 stocks)
+[170/260] 2025-10-16 ... DB saved: 4937 rows for 2025-10-16 | Total in DB: 739725
+OK (4937 stocks)
+[171/260] 2025-10-17 ... DB saved: 4893 rows for 2025-10-17 | Total in DB: 744618
+OK (4893 stocks)
+[172/260] 2025-10-20 ... DB saved: 5052 rows for 2025-10-20 | Total in DB: 749670
+OK (5052 stocks)
+[173/260] 2025-10-21 ... DB saved: 4642 rows for 2025-10-21 | Total in DB: 754312
+OK (4642 stocks)
+[174/260] 2025-10-22 ... ERROR: 'int' object has no attribute 'fillna'
+[175/260] 2025-10-23 ... DB saved: 5050 rows for 2025-10-23 | Total in DB: 759362
+OK (5050 stocks)
+[176/260] 2025-10-24 ... DB saved: 4988 rows for 2025-10-24 | Total in DB: 764350
+OK (4988 stocks)
+[177/260] 2025-10-27 ... DB saved: 5126 rows for 2025-10-27 | Total in DB: 769476
+OK (5126 stocks)
+[178/260] 2025-10-28 ... DB saved: 4963 rows for 2025-10-28 | Total in DB: 774439
+OK (4963 stocks)
+[179/260] 2025-10-29 ... DB saved: 4967 rows for 2025-10-29 | Total in DB: 779406
+OK (4967 stocks)
+[180/260] 2025-10-30 ... DB saved: 4930 rows for 2025-10-30 | Total in DB: 784336
+OK (4930 stocks)
+[181/260] 2025-10-31 ... DB saved: 4937 rows for 2025-10-31 | Total in DB: 789273
+OK (4937 stocks)
+[182/260] 2025-11-03 ... ERROR: 'int' object has no attribute 'fillna'
+[183/260] 2025-11-04 ... DB saved: 4987 rows for 2025-11-04 | Total in DB: 794260
+OK (4987 stocks)
+[184/260] 2025-11-05 ... ERROR: 'int' object has no attribute 'fillna'
+[185/260] 2025-11-06 ... DB saved: 4983 rows for 2025-11-06 | Total in DB: 799243
+OK (4983 stocks)
+[186/260] 2025-11-07 ... DB saved: 4914 rows for 2025-11-07 | Total in DB: 804157
+OK (4914 stocks)
+[187/260] 2025-11-10 ... DB saved: 5131 rows for 2025-11-10 | Total in DB: 809288
+OK (5131 stocks)
+[188/260] 2025-11-11 ... DB saved: 4965 rows for 2025-11-11 | Total in DB: 814253
+OK (4965 stocks)
+[189/260] 2025-11-12 ... DB saved: 4989 rows for 2025-11-12 | Total in DB: 819242
+OK (4989 stocks)
+[190/260] 2025-11-13 ... DB saved: 4992 rows for 2025-11-13 | Total in DB: 824234
+OK (4992 stocks)
+[191/260] 2025-11-14 ... DB saved: 4920 rows for 2025-11-14 | Total in DB: 829154
+OK (4920 stocks)
+[192/260] 2025-11-17 ... DB saved: 5154 rows for 2025-11-17 | Total in DB: 834308
+OK (5154 stocks)
+[193/260] 2025-11-18 ... DB saved: 5002 rows for 2025-11-18 | Total in DB: 839310
+OK (5002 stocks)
+[194/260] 2025-11-19 ... DB saved: 4973 rows for 2025-11-19 | Total in DB: 844283
+OK (4973 stocks)
+[195/260] 2025-11-20 ... DB saved: 4988 rows for 2025-11-20 | Total in DB: 849271
+OK (4988 stocks)
+[196/260] 2025-11-21 ... DB saved: 4928 rows for 2025-11-21 | Total in DB: 854199
+OK (4928 stocks)
+[197/260] 2025-11-24 ... DB saved: 5091 rows for 2025-11-24 | Total in DB: 859290
+OK (5091 stocks)
+[198/260] 2025-11-25 ... DB saved: 4963 rows for 2025-11-25 | Total in DB: 864253
+OK (4963 stocks)
+[199/260] 2025-11-26 ... DB saved: 4935 rows for 2025-11-26 | Total in DB: 869188
+OK (4935 stocks)
+  Refreshing sessions...
+[200/260] 2025-11-27 ... DB saved: 4962 rows for 2025-11-27 | Total in DB: 874150
+OK (4962 stocks)
+[201/260] 2025-11-28 ... DB saved: 4932 rows for 2025-11-28 | Total in DB: 879082
+OK (4932 stocks)
+[202/260] 2025-12-01 ... DB saved: 5089 rows for 2025-12-01 | Total in DB: 884171
+OK (5089 stocks)
+[203/260] 2025-12-02 ... DB saved: 5001 rows for 2025-12-02 | Total in DB: 889172
+OK (5001 stocks)
+[204/260] 2025-12-03 ... DB saved: 4988 rows for 2025-12-03 | Total in DB: 894160
+OK (4988 stocks)
+[205/260] 2025-12-04 ... DB saved: 4953 rows for 2025-12-04 | Total in DB: 899113
+OK (4953 stocks)
+[206/260] 2025-12-05 ... DB saved: 4948 rows for 2025-12-05 | Total in DB: 904061
+OK (4948 stocks)
+[207/260] 2025-12-08 ... DB saved: 5140 rows for 2025-12-08 | Total in DB: 909201
+OK (5140 stocks)
+[208/260] 2025-12-09 ... DB saved: 4958 rows for 2025-12-09 | Total in DB: 914159
+OK (4958 stocks)
+[209/260] 2025-12-10 ... DB saved: 4963 rows for 2025-12-10 | Total in DB: 919122
+OK (4963 stocks)
+[210/260] 2025-12-11 ... DB saved: 4973 rows for 2025-12-11 | Total in DB: 924095
+OK (4973 stocks)
+[211/260] 2025-12-12 ... DB saved: 4966 rows for 2025-12-12 | Total in DB: 929061
+OK (4966 stocks)
+[212/260] 2025-12-15 ... DB saved: 5103 rows for 2025-12-15 | Total in DB: 934164
+OK (5103 stocks)
+[213/260] 2025-12-16 ... DB saved: 4950 rows for 2025-12-16 | Total in DB: 939114
+OK (4950 stocks)
+[214/260] 2025-12-17 ... DB saved: 4982 rows for 2025-12-17 | Total in DB: 944096
+OK (4982 stocks)
+[215/260] 2025-12-18 ... DB saved: 4989 rows for 2025-12-18 | Total in DB: 949085
+OK (4989 stocks)
+[216/260] 2025-12-19 ... DB saved: 5012 rows for 2025-12-19 | Total in DB: 954097
+OK (5012 stocks)
+[217/260] 2025-12-22 ... DB saved: 5208 rows for 2025-12-22 | Total in DB: 959305
+OK (5208 stocks)
+[218/260] 2025-12-23 ... DB saved: 5035 rows for 2025-12-23 | Total in DB: 964340
+OK (5035 stocks)
+[219/260] 2025-12-24 ... DB saved: 5031 rows for 2025-12-24 | Total in DB: 969371
+OK (5031 stocks)
+[220/260] 2025-12-25 ... SKIP (no data)
+[221/260] 2025-12-26 ... DB saved: 5026 rows for 2025-12-26 | Total in DB: 974397
+OK (5026 stocks)
+[222/260] 2025-12-29 ... DB saved: 5196 rows for 2025-12-29 | Total in DB: 979593
+OK (5196 stocks)
+[223/260] 2025-12-30 ... DB saved: 5013 rows for 2025-12-30 | Total in DB: 984606
+OK (5013 stocks)
+[224/260] 2025-12-31 ... DB saved: 5032 rows for 2025-12-31 | Total in DB: 989638
+OK (5032 stocks)
+[225/260] 2026-01-01 ... DB saved: 4950 rows for 2026-01-01 | Total in DB: 994588
+OK (4950 stocks)
+[226/260] 2026-01-02 ... DB saved: 5067 rows for 2026-01-02 | Total in DB: 999655
+OK (5067 stocks)
+[227/260] 2026-01-05 ... DB saved: 5143 rows for 2026-01-05 | Total in DB: 1004798
+OK (5143 stocks)
+[228/260] 2026-01-06 ... DB saved: 5053 rows for 2026-01-06 | Total in DB: 1009851
+OK (5053 stocks)
+[229/260] 2026-01-07 ... DB saved: 5011 rows for 2026-01-07 | Total in DB: 1014862
+OK (5011 stocks)
+[230/260] 2026-01-08 ... DB saved: 5020 rows for 2026-01-08 | Total in DB: 1019882
+OK (5020 stocks)
+[231/260] 2026-01-09 ... DB saved: 5003 rows for 2026-01-09 | Total in DB: 1024885
+OK (5003 stocks)
+[232/260] 2026-01-12 ... DB saved: 5151 rows for 2026-01-12 | Total in DB: 1030036
+OK (5151 stocks)
+[233/260] 2026-01-13 ... DB saved: 5001 rows for 2026-01-13 | Total in DB: 1035037
+OK (5001 stocks)
+[234/260] 2026-01-14 ... DB saved: 4999 rows for 2026-01-14 | Total in DB: 1040036
+OK (4999 stocks)
+[235/260] 2026-01-15 ... ERROR: 'int' object has no attribute 'fillna'
+[236/260] 2026-01-16 ... DB saved: 5033 rows for 2026-01-16 | Total in DB: 1045069
+OK (5033 stocks)
+[237/260] 2026-01-19 ... DB saved: 5140 rows for 2026-01-19 | Total in DB: 1050209
+OK (5140 stocks)
+[238/260] 2026-01-20 ... DB saved: 5086 rows for 2026-01-20 | Total in DB: 1055295
+OK (5086 stocks)
+[239/260] 2026-01-21 ... DB saved: 5110 rows for 2026-01-21 | Total in DB: 1060405
+OK (5110 stocks)
+[240/260] 2026-01-22 ... DB saved: 5030 rows for 2026-01-22 | Total in DB: 1065435
+OK (5030 stocks)
+[241/260] 2026-01-23 ... DB saved: 5002 rows for 2026-01-23 | Total in DB: 1070437
+OK (5002 stocks)
+[242/260] 2026-01-26 ... ERROR: 'int' object has no attribute 'fillna'
+[243/260] 2026-01-27 ... DB saved: 5171 rows for 2026-01-27 | Total in DB: 1075608
+OK (5171 stocks)
+[244/260] 2026-01-28 ... DB saved: 5061 rows for 2026-01-28 | Total in DB: 1080669
+OK (5061 stocks)
+[245/260] 2026-01-29 ... DB saved: 5072 rows for 2026-01-29 | Total in DB: 1085741
+OK (5072 stocks)
+[246/260] 2026-01-30 ... DB saved: 5066 rows for 2026-01-30 | Total in DB: 1090807
+OK (5066 stocks)
+[247/260] 2026-02-02 ... DB saved: 5149 rows for 2026-02-02 | Total in DB: 1095956
+OK (5149 stocks)
+[248/260] 2026-02-03 ... DB saved: 5124 rows for 2026-02-03 | Total in DB: 1101080
+OK (5124 stocks)
+[249/260] 2026-02-04 ... DB saved: 5033 rows for 2026-02-04 | Total in DB: 1106113
+OK (5033 stocks)
+  Refreshing sessions...
+[250/260] 2026-02-05 ... DB saved: 5000 rows for 2026-02-05 | Total in DB: 1111113
+OK (5000 stocks)
+[251/260] 2026-02-06 ... DB saved: 5049 rows for 2026-02-06 | Total in DB: 1116162
+OK (5049 stocks)
+[252/260] 2026-02-09 ... DB saved: 5249 rows for 2026-02-09 | Total in DB: 1121411
+OK (5249 stocks)
+[253/260] 2026-02-10 ... DB saved: 5099 rows for 2026-02-10 | Total in DB: 1126510
+OK (5099 stocks)
+[254/260] 2026-02-11 ... DB saved: 5038 rows for 2026-02-11 | Total in DB: 1131548
+OK (5038 stocks)
+[255/260] 2026-02-12 ... DB saved: 5018 rows for 2026-02-12 | Total in DB: 1136566
+OK (5018 stocks)
+[256/260] 2026-02-13 ... DB saved: 5004 rows for 2026-02-13 | Total in DB: 1141570
+OK (5004 stocks)
+[257/260] 2026-02-16 ... DB saved: 5158 rows for 2026-02-16 | Total in DB: 1146728
+OK (5158 stocks)
+[258/260] 2026-02-17 ... DB saved: 5009 rows for 2026-02-17 | Total in DB: 1151737
+OK (5009 stocks)
+[259/260] 2026-02-18 ... DB saved: 5041 rows for 2026-02-18 | Total in DB: 1156778
+OK (5041 stocks)
+[260/260] 2026-02-20 ... DB saved: 4960 rows for 2026-02-20 | Total in DB: 1161738
+OK (4960 stocks)
+
+=== Backfill complete: 238 dates saved, 22 skipped ===
+Total rows: 1161738
+Recent dates:
+  2026-02-20: 4960 stocks
+  2026-02-19: 4971 stocks
+  2026-02-18: 5041 stocks
+  2026-02-17: 5009 stocks
+  2026-02-16: 5158 stocks
+  2026-02-13: 5004 stocks
+  2026-02-12: 5018 stocks
+  2026-02-11: 5038 stocks
+  2026-02-10: 5099 stocks
+  2026-02-09: 5249 stocks

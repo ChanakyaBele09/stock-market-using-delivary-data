@@ -1,0 +1,34 @@
+Initializing NSE session...
+
+Source 1: NSE index CSV files...
+  CSV: 752 rows from ind_niftytotalmarket_list.csv
+
+Source 2: NSE F&O API (meta.industry)...
+  F&O API: 207 symbols with industry
+
+Combined unique symbols: 752
+
+Still unknown after CSV+F&O: 1668 symbols
+Fetching per-symbol quotes for up to 200 of them...
+Added 199 more via per-symbol quote API
+Final unique symbols: 951
+
+Saved 951 symbols to nse_index_combined.csv
+
+Top industries:
+Industry
+Capital Goods                     112
+Financial Services                110
+Healthcare                         73
+Automobile and Auto Components     48
+Chemicals                          48
+Fast Moving Consumer Goods         45
+Consumer Services                  43
+Consumer Durables                  39
+Information Technology             36
+Mutual Fund Scheme                 35
+Construction                       29
+Services                           27
+Power                              23
+Metals & Mining                    21
+Oil Gas & Consumable Fuels         21

@@ -1,0 +1,429 @@
+
+[1/42] REPAIRING DATE: 2026-03-12
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2026-03-12 to 2026-03-12
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2026-03-12 ...     BSE Delivery merged: 4823 rows
+DB saved: 5066 rows for 2026-03-12 | Total in DB: 1275723
+OK (5066 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1275723
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[2/42] REPAIRING DATE: 2026-03-03
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2026-03-03 to 2026-03-03
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2026-03-03 ... DB saved: 2533 rows for 2026-03-03 | Total in DB: 1275723
+OK (2533 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1275723
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[3/42] REPAIRING DATE: 2026-02-26
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2026-02-26 to 2026-02-26
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2026-02-26 ...     BSE Delivery merged: 4744 rows
+DB saved: 5018 rows for 2026-02-26 | Total in DB: 1275723
+OK (5018 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1275723
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[4/42] REPAIRING DATE: 2026-02-11
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2026-02-11 to 2026-02-11
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2026-02-11 ...     BSE Delivery merged: 4786 rows
+DB saved: 5055 rows for 2026-02-11 | Total in DB: 1275723
+OK (5055 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1275723
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[5/42] REPAIRING DATE: 2026-02-09
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2026-02-09 to 2026-02-09
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2026-02-09 ...     BSE Delivery merged: 4999 rows
+DB saved: 5262 rows for 2026-02-09 | Total in DB: 1275723
+OK (5262 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1275723
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[6/42] REPAIRING DATE: 2026-02-02
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2026-02-02 to 2026-02-02
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2026-02-02 ...     BSE Delivery merged: 4901 rows
+DB saved: 5163 rows for 2026-02-02 | Total in DB: 1275723
+OK (5163 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1275723
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[7/42] REPAIRING DATE: 2026-01-26
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2026-01-26 to 2026-01-26
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2026-01-26 ... DB saved: 2501 rows for 2026-01-26 | Total in DB: 1275723
+OK (2501 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1275723
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[8/42] REPAIRING DATE: 2026-01-15
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2026-01-15 to 2026-01-15
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2026-01-15 ... DB saved: 2495 rows for 2026-01-15 | Total in DB: 1275723
+OK (2495 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1275723
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[9/42] REPAIRING DATE: 2025-12-29
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2025-12-29 to 2025-12-29
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2025-12-29 ...     BSE Delivery merged: 4968 rows
+DB saved: 5216 rows for 2025-12-29 | Total in DB: 1275723
+OK (5216 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1275723
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[10/42] REPAIRING DATE: 2025-12-26
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2025-12-26 to 2025-12-26
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2025-12-26 ...     BSE Delivery merged: 4788 rows
+DB saved: 5041 rows for 2025-12-26 | Total in DB: 1275723
+OK (5041 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1275723
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[11/42] REPAIRING DATE: 2025-12-25
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2025-12-25 to 2025-12-25
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2025-12-25 ... SKIP (no data)
+
+=== Backfill complete: 0 dates saved, 1 skipped ===
+Total rows: 1275723
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[12/42] REPAIRING DATE: 2025-12-24
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2025-12-24 to 2025-12-24
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2025-12-24 ... DB saved: 2491 rows for 2025-12-24 | Total in DB: 1273168
+OK (2491 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1273168
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[13/42] REPAIRING DATE: 2025-12-23
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2025-12-23 to 2025-12-23
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2025-12-23 ...     BSE Delivery merged: 4785 rows
+DB saved: 5051 rows for 2025-12-23 | Total in DB: 1273168
+OK (5051 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1273168
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[14/42] REPAIRING DATE: 2025-12-22
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2025-12-22 to 2025-12-22
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2025-12-22 ...     BSE Delivery merged: 4970 rows
+DB saved: 5227 rows for 2025-12-22 | Total in DB: 1273168
+OK (5227 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1273168
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[15/42] REPAIRING DATE: 2025-11-05
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2025-11-05 to 2025-11-05
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2025-11-05 ... DB saved: 2434 rows for 2025-11-05 | Total in DB: 1273168
+OK (2434 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1273168
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[16/42] REPAIRING DATE: 2025-10-28
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2025-10-28 to 2025-10-28
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2025-10-28 ...     BSE Delivery merged: 4732 rows
+DB saved: 4984 rows for 2025-10-28 | Total in DB: 1273168
+OK (4984 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1273168
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[17/42] REPAIRING DATE: 2025-10-27
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2025-10-27 to 2025-10-27
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2025-10-27 ...     BSE Delivery merged: 4906 rows
+DB saved: 5143 rows for 2025-10-27 | Total in DB: 1273168
+OK (5143 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1273168
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[18/42] REPAIRING DATE: 2025-10-24
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2025-10-24 to 2025-10-24
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2025-10-24 ...     BSE Delivery merged: 4768 rows
+DB saved: 5007 rows for 2025-10-24 | Total in DB: 1273168
+OK (5007 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1273168
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks
+
+[19/42] REPAIRING DATE: 2025-10-22
+DB ready: d:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 1 trading days.
+Date range: 2025-10-22 to 2025-10-22
+Total trading days: 1 | To process/fetch: 1
+[  1/1] 2025-10-22 ... DB saved: 2430 rows for 2025-10-22 | Total in DB: 1273168
+OK (2430 stocks)
+
+=== Backfill complete: 1 dates saved, 0 skipped ===
+Total rows: 1273168
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2533 stocks
+  2026-03-02: 5230 stocks

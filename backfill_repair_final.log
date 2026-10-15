@@ -1,0 +1,692 @@
+DB ready: D:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 261 trading days.
+Date range: 2025-03-14 to 2026-03-13
+Total trading days: 261 | To process/fetch: 261
+[  1/261] 2025-03-14 ...     BSE error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=30)
+SKIP (no data)
+[  2/261] 2025-03-17 ...     BSE Delivery merged: 4657 rows
+DB saved: 4869 rows for 2025-03-17 | Total in DB: 1273962
+OK (4869 stocks)
+[  3/261] 2025-03-18 ...     BSE Delivery merged: 4559 rows
+DB saved: 4771 rows for 2025-03-18 | Total in DB: 1273562
+OK (4771 stocks)
+[  4/261] 2025-03-19 ... DB saved: 4755 rows for 2025-03-19 | Total in DB: 1273158
+OK (4755 stocks)
+[  5/261] 2025-03-20 ...     BSE Delivery merged: 4531 rows
+DB saved: 4749 rows for 2025-03-20 | Total in DB: 1272763
+OK (4749 stocks)
+[  6/261] 2025-03-21 ...     BSE Delivery merged: 4550 rows
+DB saved: 4762 rows for 2025-03-21 | Total in DB: 1272359
+OK (4762 stocks)
+[  7/261] 2025-03-24 ...     BSE Delivery merged: 4705 rows
+DB saved: 4913 rows for 2025-03-24 | Total in DB: 1271955
+OK (4913 stocks)
+[  8/261] 2025-03-25 ...     BSE Delivery merged: 4547 rows
+DB saved: 4753 rows for 2025-03-25 | Total in DB: 1271553
+OK (4753 stocks)
+[  9/261] 2025-03-26 ...     BSE Delivery merged: 4518 rows
+DB saved: 4725 rows for 2025-03-26 | Total in DB: 1271150
+OK (4725 stocks)
+[ 10/261] 2025-03-27 ...     BSE Delivery merged: 4487 rows
+DB saved: 4711 rows for 2025-03-27 | Total in DB: 1271187
+OK (4711 stocks)
+[ 11/261] 2025-03-28 ...     BSE Delivery merged: 4493 rows
+DB saved: 4708 rows for 2025-03-28 | Total in DB: 1271219
+OK (4708 stocks)
+[ 12/261] 2025-03-31 ... SKIP (no data)
+[ 13/261] 2025-04-01 ...     BSE Delivery merged: 4569 rows
+DB saved: 4782 rows for 2025-04-01 | Total in DB: 1271254
+OK (4782 stocks)
+[ 14/261] 2025-04-02 ...     BSE Delivery merged: 4461 rows
+DB saved: 4685 rows for 2025-04-02 | Total in DB: 1271295
+OK (4685 stocks)
+[ 15/261] 2025-04-03 ... DB saved: 4704 rows for 2025-04-03 | Total in DB: 1271332
+OK (4704 stocks)
+[ 16/261] 2025-04-04 ... DB saved: 4666 rows for 2025-04-04 | Total in DB: 1271376
+OK (4666 stocks)
+[ 17/261] 2025-04-07 ...     BSE Delivery merged: 4670 rows
+DB saved: 4875 rows for 2025-04-07 | Total in DB: 1271410
+OK (4875 stocks)
+[ 18/261] 2025-04-08 ...     BSE Delivery merged: 4457 rows
+DB saved: 4666 rows for 2025-04-08 | Total in DB: 1271442
+OK (4666 stocks)
+[ 19/261] 2025-04-09 ...     BSE Delivery merged: 4415 rows
+DB saved: 4639 rows for 2025-04-09 | Total in DB: 1271479
+OK (4639 stocks)
+[ 20/261] 2025-04-10 ... SKIP (no data)
+[ 21/261] 2025-04-11 ...     BSE Delivery merged: 4488 rows
+DB saved: 4711 rows for 2025-04-11 | Total in DB: 1271516
+OK (4711 stocks)
+[ 22/261] 2025-04-14 ... SKIP (no data)
+[ 23/261] 2025-04-15 ...     BSE Delivery merged: 4689 rows
+DB saved: 4896 rows for 2025-04-15 | Total in DB: 1271549
+OK (4896 stocks)
+[ 24/261] 2025-04-16 ...     BSE Delivery merged: 4457 rows
+DB saved: 4688 rows for 2025-04-16 | Total in DB: 1271587
+OK (4688 stocks)
+[ 25/261] 2025-04-17 ...     BSE Delivery merged: 4501 rows
+DB saved: 4721 rows for 2025-04-17 | Total in DB: 1271621
+OK (4721 stocks)
+[ 26/261] 2025-04-18 ... SKIP (no data)
+[ 27/261] 2025-04-21 ...     BSE Delivery merged: 4659 rows
+DB saved: 4867 rows for 2025-04-21 | Total in DB: 1271655
+OK (4867 stocks)
+[ 28/261] 2025-04-22 ...     BSE Delivery merged: 4534 rows
+DB saved: 4740 rows for 2025-04-22 | Total in DB: 1271686
+OK (4740 stocks)
+[ 29/261] 2025-04-23 ...     BSE Delivery merged: 4502 rows
+DB saved: 4710 rows for 2025-04-23 | Total in DB: 1271719
+OK (4710 stocks)
+[ 30/261] 2025-04-24 ...     BSE Delivery merged: 4434 rows
+DB saved: 4644 rows for 2025-04-24 | Total in DB: 1271751
+OK (4644 stocks)
+[ 31/261] 2025-04-25 ...     BSE Delivery merged: 4418 rows
+DB saved: 4624 rows for 2025-04-25 | Total in DB: 1271782
+OK (4624 stocks)
+[ 32/261] 2025-04-28 ...     BSE Delivery merged: 4586 rows
+DB saved: 4789 rows for 2025-04-28 | Total in DB: 1271815
+OK (4789 stocks)
+[ 33/261] 2025-04-29 ...     BSE Delivery merged: 4423 rows
+DB saved: 4640 rows for 2025-04-29 | Total in DB: 1271851
+OK (4640 stocks)
+[ 34/261] 2025-04-30 ...     BSE Delivery merged: 4417 rows
+DB saved: 4630 rows for 2025-04-30 | Total in DB: 1271885
+OK (4630 stocks)
+[ 35/261] 2025-05-01 ... SKIP (no data)
+[ 36/261] 2025-05-02 ...     BSE Delivery merged: 4465 rows
+DB saved: 4672 rows for 2025-05-02 | Total in DB: 1271921
+OK (4672 stocks)
+[ 37/261] 2025-05-05 ...     BSE Delivery merged: 4628 rows
+DB saved: 4839 rows for 2025-05-05 | Total in DB: 1271953
+OK (4839 stocks)
+[ 38/261] 2025-05-06 ...     BSE Delivery merged: 4422 rows
+DB saved: 4632 rows for 2025-05-06 | Total in DB: 1271986
+OK (4632 stocks)
+[ 39/261] 2025-05-07 ...     BSE Delivery merged: 4400 rows
+DB saved: 4613 rows for 2025-05-07 | Total in DB: 1272016
+OK (4613 stocks)
+[ 40/261] 2025-05-08 ...     BSE Delivery merged: 4374 rows
+DB saved: 4601 rows for 2025-05-08 | Total in DB: 1272056
+OK (4601 stocks)
+[ 41/261] 2025-05-09 ...     BSE Delivery merged: 4339 rows
+DB saved: 4569 rows for 2025-05-09 | Total in DB: 1272096
+OK (4569 stocks)
+[ 42/261] 2025-05-12 ...     BSE Delivery merged: 4602 rows
+DB saved: 4820 rows for 2025-05-12 | Total in DB: 1272130
+OK (4820 stocks)
+[ 43/261] 2025-05-13 ...     BSE Delivery merged: 4478 rows
+DB saved: 4692 rows for 2025-05-13 | Total in DB: 1272163
+OK (4692 stocks)
+[ 44/261] 2025-05-14 ...     BSE Delivery merged: 4461 rows
+DB saved: 4677 rows for 2025-05-14 | Total in DB: 1272193
+OK (4677 stocks)
+[ 45/261] 2025-05-15 ...     BSE Delivery merged: 4455 rows
+DB saved: 4676 rows for 2025-05-15 | Total in DB: 1272227
+OK (4676 stocks)
+[ 46/261] 2025-05-16 ...     BSE Delivery merged: 4482 rows
+DB saved: 4702 rows for 2025-05-16 | Total in DB: 1272257
+OK (4702 stocks)
+[ 47/261] 2025-05-19 ...     BSE Delivery merged: 4626 rows
+DB saved: 4834 rows for 2025-05-19 | Total in DB: 1272289
+OK (4834 stocks)
+[ 48/261] 2025-05-20 ...     BSE Delivery merged: 4485 rows
+DB saved: 4703 rows for 2025-05-20 | Total in DB: 1272324
+OK (4703 stocks)
+[ 49/261] 2025-05-21 ...     BSE Delivery merged: 4481 rows
+DB saved: 4700 rows for 2025-05-21 | Total in DB: 1272357
+OK (4700 stocks)
+  Refreshing sessions...
+[ 50/261] 2025-05-22 ... DB saved: 4654 rows for 2025-05-22 | Total in DB: 1272392
+OK (4654 stocks)
+[ 51/261] 2025-05-23 ... DB saved: 2316 rows for 2025-05-23 | Total in DB: 1270076
+OK (2316 stocks)
+[ 52/261] 2025-05-26 ... DB saved: 2327 rows for 2025-05-26 | Total in DB: 1267612
+OK (2327 stocks)
+[ 53/261] 2025-05-27 ... DB saved: 2317 rows for 2025-05-27 | Total in DB: 1265266
+OK (2317 stocks)
+[ 54/261] 2025-05-28 ...     BSE Delivery merged: 4440 rows
+DB saved: 4666 rows for 2025-05-28 | Total in DB: 1265298
+OK (4666 stocks)
+[ 55/261] 2025-05-29 ... DB saved: 2317 rows for 2025-05-29 | Total in DB: 1262977
+OK (2317 stocks)
+[ 56/261] 2025-05-30 ... DB saved: 2318 rows for 2025-05-30 | Total in DB: 1260626
+OK (2318 stocks)
+[ 57/261] 2025-06-02 ...     BSE Delivery merged: 4662 rows
+DB saved: 4877 rows for 2025-06-02 | Total in DB: 1260658
+OK (4877 stocks)
+[ 58/261] 2025-06-03 ... DB saved: 4769 rows for 2025-06-03 | Total in DB: 1260690
+OK (4769 stocks)
+[ 59/261] 2025-06-04 ...     BSE Delivery merged: 4524 rows
+DB saved: 4738 rows for 2025-06-04 | Total in DB: 1260721
+OK (4738 stocks)
+[ 60/261] 2025-06-05 ... DB saved: 4732 rows for 2025-06-05 | Total in DB: 1260752
+OK (4732 stocks)
+[ 61/261] 2025-06-06 ... DB saved: 2325 rows for 2025-06-06 | Total in DB: 1258313
+OK (2325 stocks)
+[ 62/261] 2025-06-09 ...     BSE Delivery merged: 4786 rows
+DB saved: 4997 rows for 2025-06-09 | Total in DB: 1258344
+OK (4997 stocks)
+[ 63/261] 2025-06-10 ... DB saved: 2324 rows for 2025-06-10 | Total in DB: 1255912
+OK (2324 stocks)
+[ 64/261] 2025-06-11 ... DB saved: 2326 rows for 2025-06-11 | Total in DB: 1253472
+OK (2326 stocks)
+[ 65/261] 2025-06-12 ... DB saved: 2324 rows for 2025-06-12 | Total in DB: 1251128
+OK (2324 stocks)
+[ 66/261] 2025-06-13 ... DB saved: 4720 rows for 2025-06-13 | Total in DB: 1251164
+OK (4720 stocks)
+[ 67/261] 2025-06-16 ... DB saved: 2341 rows for 2025-06-16 | Total in DB: 1248681
+OK (2341 stocks)
+[ 68/261] 2025-06-17 ... DB saved: 2326 rows for 2025-06-17 | Total in DB: 1246346
+OK (2326 stocks)
+[ 69/261] 2025-06-18 ... DB saved: 2325 rows for 2025-06-18 | Total in DB: 1244015
+OK (2325 stocks)
+[ 70/261] 2025-06-19 ...     BSE Delivery merged: 4464 rows
+DB saved: 4688 rows for 2025-06-19 | Total in DB: 1244051
+OK (4688 stocks)
+[ 71/261] 2025-06-20 ... DB saved: 4698 rows for 2025-06-20 | Total in DB: 1244087
+OK (4698 stocks)
+[ 72/261] 2025-06-23 ... DB saved: 4821 rows for 2025-06-23 | Total in DB: 1244125
+OK (4821 stocks)
+[ 73/261] 2025-06-24 ...     BSE Delivery merged: 4542 rows
+DB saved: 4765 rows for 2025-06-24 | Total in DB: 1244163
+OK (4765 stocks)
+[ 74/261] 2025-06-25 ... DB saved: 4722 rows for 2025-06-25 | Total in DB: 1244201
+OK (4722 stocks)
+[ 75/261] 2025-06-26 ... DB saved: 4729 rows for 2025-06-26 | Total in DB: 1244235
+OK (4729 stocks)
+[ 76/261] 2025-06-27 ... DB saved: 4727 rows for 2025-06-27 | Total in DB: 1244271
+OK (4727 stocks)
+[ 77/261] 2025-06-30 ... DB saved: 4906 rows for 2025-06-30 | Total in DB: 1244306
+OK (4906 stocks)
+[ 78/261] 2025-07-01 ... DB saved: 4767 rows for 2025-07-01 | Total in DB: 1244340
+OK (4767 stocks)
+[ 79/261] 2025-07-02 ...     BSE Delivery merged: 4566 rows
+DB saved: 4784 rows for 2025-07-02 | Total in DB: 1244377
+OK (4784 stocks)
+[ 80/261] 2025-07-03 ... DB saved: 2342 rows for 2025-07-03 | Total in DB: 1241944
+OK (2342 stocks)
+[ 81/261] 2025-07-04 ...     BSE Delivery merged: 4567 rows
+DB saved: 4785 rows for 2025-07-04 | Total in DB: 1241984
+OK (4785 stocks)
+[ 82/261] 2025-07-07 ... DB saved: 4879 rows for 2025-07-07 | Total in DB: 1242025
+OK (4879 stocks)
+[ 83/261] 2025-07-08 ...     BSE Delivery merged: 4573 rows
+DB saved: 4793 rows for 2025-07-08 | Total in DB: 1242063
+OK (4793 stocks)
+[ 84/261] 2025-07-09 ... DB saved: 4761 rows for 2025-07-09 | Total in DB: 1242104
+OK (4761 stocks)
+[ 85/261] 2025-07-10 ...     BSE Delivery merged: 4504 rows
+DB saved: 4731 rows for 2025-07-10 | Total in DB: 1242152
+OK (4731 stocks)
+[ 86/261] 2025-07-11 ... DB saved: 4781 rows for 2025-07-11 | Total in DB: 1242195
+OK (4781 stocks)
+[ 87/261] 2025-07-14 ...     BSE Delivery merged: 4722 rows
+DB saved: 4939 rows for 2025-07-14 | Total in DB: 1242236
+OK (4939 stocks)
+[ 88/261] 2025-07-15 ... DB saved: 4791 rows for 2025-07-15 | Total in DB: 1242277
+OK (4791 stocks)
+[ 89/261] 2025-07-16 ...     BSE Delivery merged: 4572 rows
+DB saved: 4798 rows for 2025-07-16 | Total in DB: 1242318
+OK (4798 stocks)
+[ 90/261] 2025-07-17 ... DB saved: 4758 rows for 2025-07-17 | Total in DB: 1242361
+OK (4758 stocks)
+[ 91/261] 2025-07-18 ...     BSE Delivery merged: 4557 rows
+DB saved: 4782 rows for 2025-07-18 | Total in DB: 1242401
+OK (4782 stocks)
+[ 92/261] 2025-07-21 ... DB saved: 4953 rows for 2025-07-21 | Total in DB: 1242449
+OK (4953 stocks)
+[ 93/261] 2025-07-22 ... DB saved: 4810 rows for 2025-07-22 | Total in DB: 1242493
+OK (4810 stocks)
+[ 94/261] 2025-07-23 ...     BSE Delivery merged: 4625 rows
+DB saved: 4853 rows for 2025-07-23 | Total in DB: 1242534
+OK (4853 stocks)
+[ 95/261] 2025-07-24 ... DB saved: 4856 rows for 2025-07-24 | Total in DB: 1242576
+OK (4856 stocks)
+[ 96/261] 2025-07-25 ... DB saved: 4766 rows for 2025-07-25 | Total in DB: 1242615
+OK (4766 stocks)
+[ 97/261] 2025-07-28 ... DB saved: 4970 rows for 2025-07-28 | Total in DB: 1242658
+OK (4970 stocks)
+[ 98/261] 2025-07-29 ...     BSE Delivery merged: 4583 rows
+DB saved: 4809 rows for 2025-07-29 | Total in DB: 1242701
+OK (4809 stocks)
+[ 99/261] 2025-07-30 ...     BSE Delivery merged: 4541 rows
+DB saved: 4776 rows for 2025-07-30 | Total in DB: 1242743
+OK (4776 stocks)
+  Refreshing sessions...
+[100/261] 2025-07-31 ...     BSE Delivery merged: 4536 rows
+DB saved: 4767 rows for 2025-07-31 | Total in DB: 1242788
+OK (4767 stocks)
+[101/261] 2025-08-01 ...     BSE Delivery merged: 4568 rows
+DB saved: 4794 rows for 2025-08-01 | Total in DB: 1242828
+OK (4794 stocks)
+[102/261] 2025-08-04 ... DB saved: 4943 rows for 2025-08-04 | Total in DB: 1242870
+OK (4943 stocks)
+[103/261] 2025-08-05 ...     BSE Delivery merged: 4606 rows
+DB saved: 4835 rows for 2025-08-05 | Total in DB: 1242910
+OK (4835 stocks)
+[104/261] 2025-08-06 ...     BSE Delivery merged: 4624 rows
+DB saved: 4853 rows for 2025-08-06 | Total in DB: 1242951
+OK (4853 stocks)
+[105/261] 2025-08-07 ... DB saved: 4851 rows for 2025-08-07 | Total in DB: 1242986
+OK (4851 stocks)
+[106/261] 2025-08-08 ... DB saved: 4795 rows for 2025-08-08 | Total in DB: 1243027
+OK (4795 stocks)
+[107/261] 2025-08-11 ...     BSE Delivery merged: 4768 rows
+DB saved: 4997 rows for 2025-08-11 | Total in DB: 1243071
+OK (4997 stocks)
+[108/261] 2025-08-12 ... DB saved: 2378 rows for 2025-08-12 | Total in DB: 1240658
+OK (2378 stocks)
+[109/261] 2025-08-13 ...     BSE error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=30)
+DB saved: 2375 rows for 2025-08-13 | Total in DB: 1238265
+OK (2375 stocks)
+[110/261] 2025-08-14 ... DB saved: 4807 rows for 2025-08-14 | Total in DB: 1238305
+OK (4807 stocks)
+[111/261] 2025-08-15 ... SKIP (no data)
+[112/261] 2025-08-18 ... DB saved: 5000 rows for 2025-08-18 | Total in DB: 1238342
+OK (5000 stocks)
+[113/261] 2025-08-19 ...     BSE Delivery merged: 4604 rows
+DB saved: 4837 rows for 2025-08-19 | Total in DB: 1238379
+OK (4837 stocks)
+[114/261] 2025-08-20 ...     BSE Delivery merged: 4652 rows
+DB saved: 4889 rows for 2025-08-20 | Total in DB: 1238418
+OK (4889 stocks)
+[115/261] 2025-08-21 ... DB saved: 2381 rows for 2025-08-21 | Total in DB: 1235996
+OK (2381 stocks)
+[116/261] 2025-08-22 ... DB saved: 2381 rows for 2025-08-22 | Total in DB: 1233587
+OK (2381 stocks)
+[117/261] 2025-08-25 ... DB saved: 2395 rows for 2025-08-25 | Total in DB: 1231009
+OK (2395 stocks)
+[118/261] 2025-08-26 ... DB saved: 4834 rows for 2025-08-26 | Total in DB: 1231045
+OK (4834 stocks)
+[119/261] 2025-08-27 ... SKIP (no data)
+[120/261] 2025-08-28 ...     BSE Delivery merged: 4621 rows
+DB saved: 4850 rows for 2025-08-28 | Total in DB: 1231082
+OK (4850 stocks)
+[121/261] 2025-08-29 ... DB saved: 4806 rows for 2025-08-29 | Total in DB: 1231118
+OK (4806 stocks)
+[122/261] 2025-09-01 ... DB saved: 5010 rows for 2025-09-01 | Total in DB: 1231156
+OK (5010 stocks)
+[123/261] 2025-09-02 ... DB saved: 4916 rows for 2025-09-02 | Total in DB: 1231191
+OK (4916 stocks)
+[124/261] 2025-09-03 ...     BSE Delivery merged: 4665 rows
+DB saved: 4890 rows for 2025-09-03 | Total in DB: 1231222
+OK (4890 stocks)
+[125/261] 2025-09-04 ...     BSE Delivery merged: 4650 rows
+DB saved: 4878 rows for 2025-09-04 | Total in DB: 1231254
+OK (4878 stocks)
+[126/261] 2025-09-05 ... DB saved: 4827 rows for 2025-09-05 | Total in DB: 1231285
+OK (4827 stocks)
+[127/261] 2025-09-08 ... DB saved: 5016 rows for 2025-09-08 | Total in DB: 1231323
+OK (5016 stocks)
+[128/261] 2025-09-09 ... DB saved: 4877 rows for 2025-09-09 | Total in DB: 1231349
+OK (4877 stocks)
+[129/261] 2025-09-10 ...     BSE Delivery merged: 4653 rows
+DB saved: 4880 rows for 2025-09-10 | Total in DB: 1231376
+OK (4880 stocks)
+[130/261] 2025-09-11 ...     NSE error: HTTPSConnectionPool(host='nsearchives.nseindia.com', port=443): Read timed out.
+    BSE Delivery merged: 4670 rows
+DB saved: 4672 rows for 2025-09-11 | Total in DB: 1231178
+OK (4672 stocks)
+[131/261] 2025-09-12 ...     BSE Delivery merged: 4671 rows
+DB saved: 4900 rows for 2025-09-12 | Total in DB: 1231204
+OK (4900 stocks)
+[132/261] 2025-09-15 ... DB saved: 5015 rows for 2025-09-15 | Total in DB: 1231228
+OK (5015 stocks)
+[133/261] 2025-09-16 ... DB saved: 2393 rows for 2025-09-16 | Total in DB: 1228712
+OK (2393 stocks)
+[134/261] 2025-09-17 ... DB saved: 2398 rows for 2025-09-17 | Total in DB: 1226185
+OK (2398 stocks)
+[135/261] 2025-09-18 ... DB saved: 2398 rows for 2025-09-18 | Total in DB: 1223629
+OK (2398 stocks)
+[136/261] 2025-09-19 ...     BSE Delivery merged: 4668 rows
+DB saved: 4901 rows for 2025-09-19 | Total in DB: 1223650
+OK (4901 stocks)
+[137/261] 2025-09-22 ...     NSE error: HTTPSConnectionPool(host='nsearchives.nseindia.com', port=443): Read timed out.
+    BSE error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out.
+SKIP (no data)
+[138/261] 2025-09-23 ...     BSE Delivery merged: 4652 rows
+DB saved: 4882 rows for 2025-09-23 | Total in DB: 1223672
+OK (4882 stocks)
+[139/261] 2025-09-24 ... DB saved: 4920 rows for 2025-09-24 | Total in DB: 1223695
+OK (4920 stocks)
+[140/261] 2025-09-25 ... DB saved: 4913 rows for 2025-09-25 | Total in DB: 1223717
+OK (4913 stocks)
+[141/261] 2025-09-26 ... DB saved: 4847 rows for 2025-09-26 | Total in DB: 1223739
+OK (4847 stocks)
+[142/261] 2025-09-29 ... DB saved: 4991 rows for 2025-09-29 | Total in DB: 1223765
+OK (4991 stocks)
+[143/261] 2025-09-30 ... DB saved: 4878 rows for 2025-09-30 | Total in DB: 1223790
+OK (4878 stocks)
+[144/261] 2025-10-01 ... DB saved: 4913 rows for 2025-10-01 | Total in DB: 1223810
+OK (4913 stocks)
+[145/261] 2025-10-02 ... SKIP (no data)
+[146/261] 2025-10-03 ... DB saved: 2419 rows for 2025-10-03 | Total in DB: 1221314
+OK (2419 stocks)
+[147/261] 2025-10-06 ...     BSE Delivery merged: 4855 rows
+DB saved: 5091 rows for 2025-10-06 | Total in DB: 1221336
+OK (5091 stocks)
+[148/261] 2025-10-07 ... DB saved: 4955 rows for 2025-10-07 | Total in DB: 1221356
+OK (4955 stocks)
+[149/261] 2025-10-08 ...     BSE Delivery merged: 4758 rows
+DB saved: 4985 rows for 2025-10-08 | Total in DB: 1221373
+OK (4985 stocks)
+  Refreshing sessions...
+[150/261] 2025-10-09 ... DB saved: 4957 rows for 2025-10-09 | Total in DB: 1221390
+OK (4957 stocks)
+[151/261] 2025-10-10 ... DB saved: 4966 rows for 2025-10-10 | Total in DB: 1221408
+OK (4966 stocks)
+[152/261] 2025-10-13 ... DB saved: 5078 rows for 2025-10-13 | Total in DB: 1221423
+OK (5078 stocks)
+[153/261] 2025-10-14 ... DB saved: 4982 rows for 2025-10-14 | Total in DB: 1221437
+OK (4982 stocks)
+[154/261] 2025-10-15 ...     BSE Delivery merged: 4705 rows
+DB saved: 4950 rows for 2025-10-15 | Total in DB: 1221454
+OK (4950 stocks)
+[155/261] 2025-10-16 ... DB saved: 4954 rows for 2025-10-16 | Total in DB: 1221471
+OK (4954 stocks)
+[156/261] 2025-10-17 ...     BSE Delivery merged: 4671 rows
+DB saved: 4908 rows for 2025-10-17 | Total in DB: 1221486
+OK (4908 stocks)
+[157/261] 2025-10-20 ... DB saved: 5071 rows for 2025-10-20 | Total in DB: 1221505
+OK (5071 stocks)
+[158/261] 2025-10-21 ...     BSE error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=30)
+DB saved: 2430 rows for 2025-10-21 | Total in DB: 1219293
+OK (2430 stocks)
+[159/261] 2025-10-22 ... DB saved: 2430 rows for 2025-10-22 | Total in DB: 1219432
+OK (2430 stocks)
+[160/261] 2025-10-23 ...     BSE Delivery merged: 4838 rows
+DB saved: 5067 rows for 2025-10-23 | Total in DB: 1219449
+OK (5067 stocks)
+[161/261] 2025-10-24 ... DB saved: 2440 rows for 2025-10-24 | Total in DB: 1216901
+OK (2440 stocks)
+[162/261] 2025-10-27 ... DB saved: 2449 rows for 2025-10-27 | Total in DB: 1214224
+OK (2449 stocks)
+[163/261] 2025-10-28 ... DB saved: 2437 rows for 2025-10-28 | Total in DB: 1211698
+OK (2437 stocks)
+[164/261] 2025-10-29 ...     NSE error: HTTPSConnectionPool(host='nsearchives.nseindia.com', port=443): Read timed out.
+    BSE Delivery merged: 4724 rows
+DB saved: 4726 rows for 2025-10-29 | Total in DB: 1211457
+OK (4726 stocks)
+[165/261] 2025-10-30 ...     NSE error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+    BSE error: HTTPSConnectionPool(host='www.bseindia.com', port=443): Read timed out. (read timeout=30)
+SKIP (no data)
+[166/261] 2025-10-31 ...     BSE Delivery merged: 4711 rows
+DB saved: 4957 rows for 2025-10-31 | Total in DB: 1211477
+OK (4957 stocks)
+[167/261] 2025-11-03 ...     BSE Delivery merged: 4857 rows
+DB saved: 5095 rows for 2025-11-03 | Total in DB: 1211497
+OK (5095 stocks)
+[168/261] 2025-11-04 ...     BSE Delivery merged: 4757 rows
+DB saved: 5005 rows for 2025-11-04 | Total in DB: 1211515
+OK (5005 stocks)
+[169/261] 2025-11-05 ... DB saved: 2434 rows for 2025-11-05 | Total in DB: 1211663
+OK (2434 stocks)
+[170/261] 2025-11-06 ...     BSE Delivery merged: 4766 rows
+DB saved: 5000 rows for 2025-11-06 | Total in DB: 1211680
+OK (5000 stocks)
+[171/261] 2025-11-07 ...     BSE Delivery merged: 4696 rows
+DB saved: 4938 rows for 2025-11-07 | Total in DB: 1211704
+OK (4938 stocks)
+[172/261] 2025-11-10 ...     BSE Delivery merged: 4910 rows
+DB saved: 5150 rows for 2025-11-10 | Total in DB: 1211723
+OK (5150 stocks)
+[173/261] 2025-11-11 ...     BSE Delivery merged: 4745 rows
+DB saved: 4980 rows for 2025-11-11 | Total in DB: 1211738
+OK (4980 stocks)
+[174/261] 2025-11-12 ...     BSE Delivery merged: 4766 rows
+DB saved: 5003 rows for 2025-11-12 | Total in DB: 1211752
+OK (5003 stocks)
+[175/261] 2025-11-13 ...     BSE Delivery merged: 4772 rows
+DB saved: 5008 rows for 2025-11-13 | Total in DB: 1211768
+OK (5008 stocks)
+[176/261] 2025-11-14 ...     BSE Delivery merged: 4693 rows
+DB saved: 4941 rows for 2025-11-14 | Total in DB: 1211789
+OK (4941 stocks)
+[177/261] 2025-11-17 ...     BSE Delivery merged: 4929 rows
+DB saved: 5175 rows for 2025-11-17 | Total in DB: 1211810
+OK (5175 stocks)
+[178/261] 2025-11-18 ...     BSE Delivery merged: 4769 rows
+DB saved: 5020 rows for 2025-11-18 | Total in DB: 1211828
+OK (5020 stocks)
+[179/261] 2025-11-19 ...     BSE Delivery merged: 4742 rows
+DB saved: 4991 rows for 2025-11-19 | Total in DB: 1211846
+OK (4991 stocks)
+[180/261] 2025-11-20 ...     BSE Delivery merged: 4757 rows
+DB saved: 5005 rows for 2025-11-20 | Total in DB: 1211863
+OK (5005 stocks)
+[181/261] 2025-11-21 ...     BSE Delivery merged: 4701 rows
+DB saved: 4945 rows for 2025-11-21 | Total in DB: 1211880
+OK (4945 stocks)
+[182/261] 2025-11-24 ...     BSE Delivery merged: 4872 rows
+DB saved: 5110 rows for 2025-11-24 | Total in DB: 1211899
+OK (5110 stocks)
+[183/261] 2025-11-25 ...     BSE Delivery merged: 4736 rows
+DB saved: 4983 rows for 2025-11-25 | Total in DB: 1211919
+OK (4983 stocks)
+[184/261] 2025-11-26 ...     BSE Delivery merged: 4689 rows
+DB saved: 4955 rows for 2025-11-26 | Total in DB: 1211939
+OK (4955 stocks)
+[185/261] 2025-11-27 ...     BSE Delivery merged: 4726 rows
+DB saved: 4985 rows for 2025-11-27 | Total in DB: 1211962
+OK (4985 stocks)
+[186/261] 2025-11-28 ...     BSE Delivery merged: 4694 rows
+DB saved: 4954 rows for 2025-11-28 | Total in DB: 1211984
+OK (4954 stocks)
+[187/261] 2025-12-01 ...     BSE Delivery merged: 4855 rows
+DB saved: 5112 rows for 2025-12-01 | Total in DB: 1211554
+OK (5112 stocks)
+[188/261] 2025-12-02 ...     BSE Delivery merged: 4757 rows
+DB saved: 5018 rows for 2025-12-02 | Total in DB: 1211129
+OK (5018 stocks)
+[189/261] 2025-12-03 ...     BSE Delivery merged: 4737 rows
+DB saved: 5001 rows for 2025-12-03 | Total in DB: 1210691
+OK (5001 stocks)
+[190/261] 2025-12-04 ...     BSE Delivery merged: 4706 rows
+DB saved: 4968 rows for 2025-12-04 | Total in DB: 1210259
+OK (4968 stocks)
+[191/261] 2025-12-05 ...     BSE Delivery merged: 4709 rows
+DB saved: 4967 rows for 2025-12-05 | Total in DB: 1209837
+OK (4967 stocks)
+[192/261] 2025-12-08 ...     BSE Delivery merged: 4914 rows
+DB saved: 5160 rows for 2025-12-08 | Total in DB: 1209384
+OK (5160 stocks)
+[193/261] 2025-12-09 ...     BSE Delivery merged: 4721 rows
+DB saved: 4973 rows for 2025-12-09 | Total in DB: 1208954
+OK (4973 stocks)
+[194/261] 2025-12-10 ...     BSE Delivery merged: 4721 rows
+DB saved: 4979 rows for 2025-12-10 | Total in DB: 1208532
+OK (4979 stocks)
+[195/261] 2025-12-11 ...     BSE Delivery merged: 4728 rows
+DB saved: 4989 rows for 2025-12-11 | Total in DB: 1208109
+OK (4989 stocks)
+[196/261] 2025-12-12 ...     BSE Delivery merged: 4726 rows
+DB saved: 4980 rows for 2025-12-12 | Total in DB: 1207688
+OK (4980 stocks)
+[197/261] 2025-12-15 ...     BSE Delivery merged: 4858 rows
+DB saved: 5118 rows for 2025-12-15 | Total in DB: 1207263
+OK (5118 stocks)
+[198/261] 2025-12-16 ...     BSE Delivery merged: 4709 rows
+DB saved: 4972 rows for 2025-12-16 | Total in DB: 1206840
+OK (4972 stocks)
+[199/261] 2025-12-17 ...     BSE Delivery merged: 4721 rows
+DB saved: 4994 rows for 2025-12-17 | Total in DB: 1206408
+OK (4994 stocks)
+  Refreshing sessions...
+[200/261] 2025-12-18 ...     BSE Delivery merged: 4749 rows
+DB saved: 5005 rows for 2025-12-18 | Total in DB: 1205988
+OK (5005 stocks)
+[201/261] 2025-12-19 ...     BSE Delivery merged: 4745 rows
+DB saved: 5029 rows for 2025-12-19 | Total in DB: 1205565
+OK (5029 stocks)
+[202/261] 2025-12-22 ... DB saved: 2499 rows for 2025-12-22 | Total in DB: 1202400
+OK (2499 stocks)
+[203/261] 2025-12-23 ... DB saved: 2492 rows for 2025-12-23 | Total in DB: 1199402
+OK (2492 stocks)
+[204/261] 2025-12-24 ... DB saved: 2491 rows for 2025-12-24 | Total in DB: 1196405
+OK (2491 stocks)
+[205/261] 2025-12-25 ... DB saved: 2491 rows for 2025-12-25 | Total in DB: 1195958
+OK (2491 stocks)
+[206/261] 2025-12-26 ... DB saved: 2490 rows for 2025-12-26 | Total in DB: 1192967
+OK (2490 stocks)
+[207/261] 2025-12-29 ... DB saved: 2499 rows for 2025-12-29 | Total in DB: 1189804
+OK (2499 stocks)
+[208/261] 2025-12-30 ...     BSE Delivery merged: 4768 rows
+DB saved: 5028 rows for 2025-12-30 | Total in DB: 1189370
+OK (5028 stocks)
+[209/261] 2025-12-31 ...     BSE Delivery merged: 4788 rows
+DB saved: 5047 rows for 2025-12-31 | Total in DB: 1188931
+OK (5047 stocks)
+[210/261] 2026-01-01 ...     BSE Delivery merged: 4696 rows
+DB saved: 4966 rows for 2026-01-01 | Total in DB: 1188503
+OK (4966 stocks)
+[211/261] 2026-01-02 ...     BSE Delivery merged: 4818 rows
+DB saved: 5080 rows for 2026-01-02 | Total in DB: 1190664
+OK (5080 stocks)
+[212/261] 2026-01-05 ...     BSE Delivery merged: 4907 rows
+DB saved: 5164 rows for 2026-01-05 | Total in DB: 1190232
+OK (5164 stocks)
+[213/261] 2026-01-06 ...     BSE Delivery merged: 4808 rows
+DB saved: 5068 rows for 2026-01-06 | Total in DB: 1189809
+OK (5068 stocks)
+[214/261] 2026-01-07 ...     BSE Delivery merged: 4761 rows
+DB saved: 5031 rows for 2026-01-07 | Total in DB: 1191908
+OK (5031 stocks)
+[215/261] 2026-01-08 ...     BSE Delivery merged: 4776 rows
+DB saved: 5034 rows for 2026-01-08 | Total in DB: 1191470
+OK (5034 stocks)
+[216/261] 2026-01-09 ...     BSE Delivery merged: 4756 rows
+DB saved: 5018 rows for 2026-01-09 | Total in DB: 1193561
+OK (5018 stocks)
+[217/261] 2026-01-12 ...     BSE Delivery merged: 4914 rows
+DB saved: 5166 rows for 2026-01-12 | Total in DB: 1193136
+OK (5166 stocks)
+[218/261] 2026-01-13 ...     BSE Delivery merged: 4730 rows
+DB saved: 5019 rows for 2026-01-13 | Total in DB: 1192701
+OK (5019 stocks)
+[219/261] 2026-01-14 ...     BSE Delivery merged: 4742 rows
+DB saved: 5019 rows for 2026-01-14 | Total in DB: 1192280
+OK (5019 stocks)
+[220/261] 2026-01-15 ... DB saved: 2495 rows for 2026-01-15 | Total in DB: 1191855
+OK (2495 stocks)
+[221/261] 2026-01-16 ...     BSE Delivery merged: 4800 rows
+DB saved: 5051 rows for 2026-01-16 | Total in DB: 1193962
+OK (5051 stocks)
+[222/261] 2026-01-19 ...     BSE Delivery merged: 4906 rows
+DB saved: 5157 rows for 2026-01-19 | Total in DB: 1193534
+OK (5157 stocks)
+[223/261] 2026-01-20 ...     BSE Delivery merged: 4855 rows
+DB saved: 5103 rows for 2026-01-20 | Total in DB: 1193079
+OK (5103 stocks)
+[224/261] 2026-01-21 ...     BSE Delivery merged: 4887 rows
+DB saved: 5125 rows for 2026-01-21 | Total in DB: 1195246
+OK (5125 stocks)
+[225/261] 2026-01-22 ... DB saved: 5044 rows for 2026-01-22 | Total in DB: 1194817
+OK (5044 stocks)
+[226/261] 2026-01-23 ...     BSE Delivery merged: 4759 rows
+DB saved: 5019 rows for 2026-01-23 | Total in DB: 1194375
+OK (5019 stocks)
+[227/261] 2026-01-26 ... DB saved: 2501 rows for 2026-01-26 | Total in DB: 1193929
+OK (2501 stocks)
+[228/261] 2026-01-27 ...     BSE Delivery merged: 4948 rows
+DB saved: 5192 rows for 2026-01-27 | Total in DB: 1196165
+OK (5192 stocks)
+[229/261] 2026-01-28 ...     BSE Delivery merged: 4818 rows
+DB saved: 5076 rows for 2026-01-28 | Total in DB: 1198298
+OK (5076 stocks)
+[230/261] 2026-01-29 ... DB saved: 5088 rows for 2026-01-29 | Total in DB: 1197845
+OK (5088 stocks)
+[231/261] 2026-01-30 ...     BSE Delivery merged: 4828 rows
+DB saved: 5085 rows for 2026-01-30 | Total in DB: 1199987
+OK (5085 stocks)
+[232/261] 2026-02-02 ... DB saved: 2510 rows for 2026-02-02 | Total in DB: 1197348
+OK (2510 stocks)
+[233/261] 2026-02-03 ...     BSE Delivery merged: 4881 rows
+DB saved: 5137 rows for 2026-02-03 | Total in DB: 1197361
+OK (5137 stocks)
+[234/261] 2026-02-04 ...     BSE Delivery merged: 4784 rows
+DB saved: 5048 rows for 2026-02-04 | Total in DB: 1197376
+OK (5048 stocks)
+[235/261] 2026-02-05 ...     BSE Delivery merged: 4750 rows
+DB saved: 5015 rows for 2026-02-05 | Total in DB: 1197391
+OK (5015 stocks)
+[236/261] 2026-02-06 ...     BSE Delivery merged: 4803 rows
+DB saved: 5064 rows for 2026-02-06 | Total in DB: 1197406
+OK (5064 stocks)
+[237/261] 2026-02-09 ... DB saved: 2511 rows for 2026-02-09 | Total in DB: 1194668
+OK (2511 stocks)
+[238/261] 2026-02-10 ...     BSE Delivery merged: 4851 rows
+DB saved: 5113 rows for 2026-02-10 | Total in DB: 1194682
+OK (5113 stocks)
+[239/261] 2026-02-11 ... DB saved: 2506 rows for 2026-02-11 | Total in DB: 1192150
+OK (2506 stocks)
+[240/261] 2026-02-12 ...     BSE Delivery merged: 4772 rows
+DB saved: 5033 rows for 2026-02-12 | Total in DB: 1192165
+OK (5033 stocks)
+[241/261] 2026-02-13 ...     BSE Delivery merged: 4767 rows
+DB saved: 5020 rows for 2026-02-13 | Total in DB: 1192181
+OK (5020 stocks)
+[242/261] 2026-02-16 ... DB saved: 5175 rows for 2026-02-16 | Total in DB: 1192198
+OK (5175 stocks)
+[243/261] 2026-02-17 ... DB saved: 5028 rows for 2026-02-17 | Total in DB: 1192217
+OK (5028 stocks)
+[244/261] 2026-02-18 ...     BSE Delivery merged: 4787 rows
+DB saved: 5062 rows for 2026-02-18 | Total in DB: 1192238
+OK (5062 stocks)
+[245/261] 2026-02-19 ... DB saved: 4993 rows for 2026-02-19 | Total in DB: 1194815
+OK (4993 stocks)
+[246/261] 2026-02-20 ... DB saved: 4982 rows for 2026-02-20 | Total in DB: 1194837
+OK (4982 stocks)
+[247/261] 2026-02-23 ...     BSE Delivery merged: 4916 rows
+DB saved: 5176 rows for 2026-02-23 | Total in DB: 1194857
+OK (5176 stocks)
+[248/261] 2026-02-24 ...     BSE Delivery merged: 4766 rows
+DB saved: 5023 rows for 2026-02-24 | Total in DB: 1194877
+OK (5023 stocks)
+[249/261] 2026-02-25 ...     BSE Delivery merged: 4789 rows
+DB saved: 5057 rows for 2026-02-25 | Total in DB: 1194901
+OK (5057 stocks)
+  Refreshing sessions...
+[250/261] 2026-02-26 ... DB saved: 2521 rows for 2026-02-26 | Total in DB: 1192427
+OK (2521 stocks)
+[251/261] 2026-02-27 ...     BSE Delivery merged: 4770 rows
+DB saved: 5023 rows for 2026-02-27 | Total in DB: 1192448
+OK (5023 stocks)
+[252/261] 2026-03-02 ... DB saved: 5230 rows for 2026-03-02 | Total in DB: 1192475
+OK (5230 stocks)
+[253/261] 2026-03-03 ...     NSE error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+SKIP (no data)
+[254/261] 2026-03-04 ...     BSE Delivery merged: 4927 rows
+DB saved: 5156 rows for 2026-03-04 | Total in DB: 1192495
+OK (5156 stocks)
+[255/261] 2026-03-05 ... DB saved: 5096 rows for 2026-03-05 | Total in DB: 1192517
+OK (5096 stocks)
+[256/261] 2026-03-06 ...     BSE Delivery merged: 4797 rows
+DB saved: 5055 rows for 2026-03-06 | Total in DB: 1192539
+OK (5055 stocks)
+[257/261] 2026-03-09 ...     BSE Delivery merged: 5050 rows
+DB saved: 5291 rows for 2026-03-09 | Total in DB: 1192090
+OK (5291 stocks)
+[258/261] 2026-03-10 ... DB saved: 5144 rows for 2026-03-10 | Total in DB: 1191652
+OK (5144 stocks)
+[259/261] 2026-03-11 ...     BSE Delivery merged: 4854 rows
+DB saved: 5097 rows for 2026-03-11 | Total in DB: 1191202
+OK (5097 stocks)
+[260/261] 2026-03-12 ...     BSE Delivery merged: 4823 rows
+DB saved: 5066 rows for 2026-03-12 | Total in DB: 1190750
+OK (5066 stocks)
+[261/261] 2026-03-13 ... DB saved: 5166 rows for 2026-03-13 | Total in DB: 1190296
+OK (5166 stocks)
+
+=== Backfill complete: 249 dates saved, 12 skipped ===
+Total rows: 1190296
+Recent dates:
+  2026-03-13: 5166 stocks
+  2026-03-12: 5066 stocks
+  2026-03-11: 5097 stocks
+  2026-03-10: 5144 stocks
+  2026-03-09: 5291 stocks
+  2026-03-06: 5055 stocks
+  2026-03-05: 5096 stocks
+  2026-03-04: 5156 stocks
+  2026-03-03: 2423 stocks
+  2026-03-02: 5230 stocks

@@ -1,0 +1,24 @@
+DB ready: D:\Trading Workflows\data\stock_data.db
+REPAIR MODE: Will re-process all 261 trading days.
+Date range: 2025-03-14 to 2026-03-13
+Total trading days: 261 | To process/fetch: 261
+[  1/261] 2025-03-14 ... SKIP (no data)
+[  2/261] 2025-03-17 ... DB saved: 5266 rows for 2025-03-17 | Total in DB: 1271296
+OK (5266 stocks)
+[  3/261] 2025-03-18 ...     BSE Delivery merged: 4559 rows
+DB saved: 5171 rows for 2025-03-18 | Total in DB: 1271735
+OK (5171 stocks)
+[  4/261] 2025-03-19 ... DB saved: 5159 rows for 2025-03-19 | Total in DB: 1272177
+OK (5159 stocks)
+[  5/261] 2025-03-20 ...     BSE Delivery merged: 4531 rows
+DB saved: 5144 rows for 2025-03-20 | Total in DB: 1272610
+OK (5144 stocks)
+[  6/261] 2025-03-21 ... DB saved: 5166 rows for 2025-03-21 | Total in DB: 1273052
+OK (5166 stocks)
+[  7/261] 2025-03-24 ...     BSE Delivery merged: 4705 rows
+DB saved: 5317 rows for 2025-03-24 | Total in DB: 1273492
+OK (5317 stocks)
+[  8/261] 2025-03-25 ... DB saved: 5155 rows for 2025-03-25 | Total in DB: 1273926
+OK (5155 stocks)
+[  9/261] 2025-03-26 ... DB saved: 5128 rows for 2025-03-26 | Total in DB: 1274359
+OK (5128 stocks)

@@ -1,0 +1,25 @@
+Getting NSE session...
+
+Fetching pre-open ALL...
+Pre-open meta columns: ['symbol', 'identifier', 'series', 'purpose', 'lastPrice', 'change', 'pChange', 'previousClose', 'finalQuantity', 'totalTurnover', 'marketCap', 'yearHigh', 'yearLow', 'iep']
+      symbol    identifier series purpose  ...  marketCap  yearHigh  yearLow    iep
+0  SADHNANIQ  SADHNANIQEQN     EQ    None  ...          -      7.66     1.48   2.00
+1     RADAAN     RADAANEQN     EQ    None  ...          -      5.37     2.71   3.44
+2     VLEGOV     VLEGOVEQN     EQ    None  ...          -     72.49    11.60  15.60
+
+[3 rows x 14 columns]
+
+Fetching F&O list with meta/industry...
+F&O meta columns: ['symbol', 'companyName', 'industry', 'activeSeries', 'debtSeries', 'isFNOSec', 'isCASec', 'isSLBSec', 'isDebtSec', 'isSuspended', 'tempSuspendedSeries', 'isETFSec', 'isDelisted', 'isin', 'slb_isin', 'listingDate', 'isMunicipalBond', 'isHybridSymbol', 'segment', 'quotepreopenstatus.equityTime', 'quotepreopenstatus.preOpenTime', 'quotepreopenstatus.QuotePreOpenFlag']
+INDUSTRY FOUND in meta!
+       Symbol                        Industry
+0         ABB      Heavy Electrical Equipment
+1         KEI            Cables - Electricals
+2  POWERINDIA      Heavy Electrical Equipment
+3     TIINDIA    Auto Components & Equipments
+4   POLICYBZR  Financial Technology (Fintech)
+5    HINDALCO                       Aluminium
+6       CANBK              Public Sector Bank
+7   JSWENERGY                Power Generation
+8         PNB              Public Sector Bank
+9     SIEMENS      Heavy Electrical Equipment
