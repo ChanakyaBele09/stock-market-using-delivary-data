@@ -1,0 +1,1 @@
+[(0, 'symbol', 'TEXT', 0, None, 1), (1, 'isin', 'TEXT', 0, None, 0), (2, 'issued_size', 'INTEGER', 0, None, 0), (3, 'ff_factor', 'REAL', 0, None, 0), (4, 'ff_factor_date', 'TEXT', 0, None, 0), (5, 'issued_date', 'TEXT', 0, None, 0), (6, 'updated_at', 'TEXT', 0, None, 0), (7, 'bse_scrip_code', 'TEXT', 0, None, 0), (8, 'bse_ff_factor', 'REAL', 0, None, 0)]

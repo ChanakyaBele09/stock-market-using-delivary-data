@@ -1,0 +1,28 @@
+
+--- NSE headers ---
+  Source: NSE
+  SYMBOL: 20MICRONS
+  SECTOR: Industrial Minerals
+  SERIES: EQ
+  OPEN: 184.0
+  HIGH: 186.75
+  LOW: 180.0
+  CLOSE: 180.86
+  PREV_CLOSE: 181.95
+  VOLUME: 90929
+  DELIV_QTY: 29873
+  DELIV_PER: 32.85
+
+--- BSE headers ---
+  Source: BSE
+  SYMBOL: ABB
+  SECTOR: Capital Goods
+  SERIES: A
+  OPEN: 5914.55
+  HIGH: 5914.55
+  LOW: 5700.05
+  CLOSE: 5715.65
+  PREV_CLOSE: 5881.35
+  VOLUME: 6986
+  DELIV_QTY: 2919
+  DELIV_PER: 41.78

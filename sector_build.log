@@ -1,0 +1,33 @@
+Parsing PDF...
+PDF parsed: 59 industry classification rows
+       Sector                     Industry        BasicIndustry
+1   Chemicals   Chemicals & Petrochemicals  Commodity Chemicals
+2   Chemicals   Chemicals & Petrochemicals  Specialty Chemicals
+3   Chemicals   Chemicals & Petrochemicals         Carbon Black
+4   Chemicals   Chemicals & Petrochemicals    Dyes And Pigments
+5   Chemicals   Chemicals & Petrochemicals           Explosives
+6   Chemicals   Chemicals & Petrochemicals       Petrochemicals
+7   Chemicals   Chemicals & Petrochemicals        Printing Inks
+8   Chemicals   Chemicals & Petrochemicals  Trading - Chemicals
+9   Chemicals   Chemicals & Petrochemicals     Industrial Gases
+10  Chemicals  Fertilizers & Agrochemicals          Fertilizers
+
+Downloading NSE Equity Master (EQUITY_L.csv)...
+Equity master rows: 2240
+Equity master columns: ['SYMBOL', 'NAME OF COMPANY', ' SERIES', ' DATE OF LISTING', ' PAID UP VALUE', ' MARKET LOT', ' ISIN NUMBER', ' FACE VALUE']
+       SYMBOL  ...  FACE VALUE
+0   20MICRONS  ...           5
+1  21STCENMGM  ...          10
+2      360ONE  ...           1
+
+[3 rows x 8 columns]
+
+Column dtypes sample:
+  SYMBOL: 20MICRONS
+  NAME OF COMPANY: 20 Microns Limited
+   SERIES: EQ
+   DATE OF LISTING: 06-OCT-2008
+   PAID UP VALUE: 5
+   MARKET LOT: 1
+   ISIN NUMBER: INE144J01027
+   FACE VALUE: 5

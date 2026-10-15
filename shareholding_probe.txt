@@ -1,0 +1,17 @@
+=== NSE shareholding bulk ===
+[nse_shold_q3_2025] 404 | len=3425 | type=text/html;charset=UTF-8
+[nse_shold_q2_2025] 404 | len=3425 | type=text/html;charset=UTF-8
+[nse_shold_q3_csv] 404 | len=3541 | type=text/html;charset=UTF-8
+
+=== BSE shareholding bulk ===
+[bse_shold_bulk1] 404 | len=1245 | type=text/html
+[bse_shold_bulk2] 404 | len=1245 | type=text/html
+[bse_shold_zip] 404 | len=1245 | type=text/html
+[bse_shold_api] 200 | len=16739 | type=text/html; charset=utf-8
+  Raw: '\r \r <!DOCTYPE html>\r \r \r \r \r \r <!DOCTYPE html>\r \r <html xmlns="http://www.w3.org/1999/xhtml">\r <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="viewport" content="width=device-width; initi'
+
+=== Direct NSE API for promoter holding ===
+[nse_shold_reliance] 404 | len=393 | type=text/html; charset=utf-8
+[nse_shold_api2] 404 | len=393 | type=text/html; charset=utf-8
+
+Done.

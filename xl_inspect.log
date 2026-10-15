@@ -1,0 +1,13 @@
+Shape: (3931, 4)
+Cols: ['Security Id', 'Security Name', 'Status', 'Industry']
+  Security Id                           Security Name  Status                      Industry
+0         ABB                       ABB India Limited  Active    Heavy Electrical Equipment
+1    AEGISLOG                    AEGIS LOGISTICS LTD.  Active  Oil Marketing & Distribution
+2  AMARAJABAT               AMARA RAJA BATTERIES LTD.  Active        Auto Parts & Equipment
+3   AMBALALSA       AMBALAL SARABHAI ENTERPRISES LTD.  Active               Pharmaceuticals
+4        HDFC   HOUSING DEVELOPMENT FINANCE CORP.LTD.  Active              Housing Finance 
+5   ANDHRAPET              ANDHRA PETROCHEMICALS LTD.  Active           Commodity Chemicals
+6    ANSALAPI  ANSAL PROPERTIES & INFRASTRUCTURE LTD.  Active                        Realty
+7      UTIQUE                  Utique Enterprises Ltd  Active     Finance (including NBFCs)
+8   ARUNAHTEL                       ARUNA HOTELS LTD.  Active                        Hotels
+9   BOMDYEING             BOMBAY DYEING & MFG.CO.LTD.  Active                      Textiles
