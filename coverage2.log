@@ -1,0 +1,12 @@
+Overall: 6290/7142 = 88.1% known
+NSE known: 2140/2416 = 88.6%
+BSE known: 4150/4726 = 87.8%
+
+Screener columns: ['Name', 'BSE Code', 'NSE Code', 'ISIN Code', 'Industry Group', 'Industry', 'Current Price', 'Market Capitalization', 'Earnings yield', 'Return on capital employed', 'Return on equity', 'Price to Earning', 'Return over 6months', 'Return over 1year', 'Sales YoY chg', 'Sales YQoYQ chg', 'EPS YQoYQ chg', 'Price to sales Yearly']
+Screener BSE-only stocks (no NSE code): 2378
+               Name  BSE Code                     Industry
+3       3B Blackbio  532067.0  Healthcare Service Provider
+4          3B Films  544412.0                    Packaging
+5   3C IT Solutions  544190.0          IT Enabled Services
+9   52 Weeks Enter.  531925.0               Packaged Foods
+12   7NR Retail Ltd  540615.0            Speciality Retail

@@ -1,0 +1,39 @@
+{
+  "daily": [
+    {
+      "bse_close": 63.29,
+      "bse_deliv_per": 0.0,
+      "bse_deliv_qty": 0,
+      "bse_high": 63.99,
+      "bse_low": 62.25,
+      "bse_open": 62.25,
+      "bse_prev_close": 63.01,
+      "bse_volume": 1482188,
+      "change_pct": 0.48,
+      "close": 63.25,
+      "combined_deliv_per": 38.35,
+      "deliv_accel": 0.3713,
+      "deliv_mcap_ratio": 0.2075,
+      "deliv_value_cr": 7.65,
+      "ff_mcap_cr": 2993.06,
+      "full_mcap_cr": 3686.32,
+      "isin": "INE07T201019",
+      "m_absorp_pct": 6.6703,
+      "m_deliv_cr": 248.5,
+      "nse_close": 63.25,
+      "nse_deliv_per": 72.37,
+      "nse_deliv_qty": 1209265,
+      "nse_high": 63.99,
+      "nse_low": 62.8,
+      "nse_open": 62.8,
+      "nse_prev_close": 62.95,
+      "nse_volume": 1671063,
+      "sector": "Consumer Services",
+      "symbol": "RBA",
+      "total_deliv_qty": 1209265,
+      "total_volume": 3153251,
+      "w_absorp_pct": 1.3661,
+      "w_deliv_cr": 50.26
+    }
+  ]
+}

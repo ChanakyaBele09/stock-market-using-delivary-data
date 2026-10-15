@@ -1,0 +1,25 @@
+ETL Process Started for date: 2026-02-19
+Downloading NSE data for 2026-02-19 from https://nsearchives.nseindia.com/products/content/sec_bhavdata_full_19022026.csv...
+DEBUG: NSE Raw Rows: 3109
+Downloading BSE Price data for 2026-02-19...
+BSE Price 404: https://www.bseindia.com/download/BhavCopy/Equity/EQ190226_CSV.ZIP
+BSE Price 404: https://www.bseindia.com/download/BhavCopy/Equity/EQ19022026_CSV.ZIP
+BSE Price 404: https://www.bseindia.com/download/BhavCopy/Equity/BSE_CM_BhavCopy20260219.ZIP
+All BSE Price URLs failed. Skipping BSE.
+DEBUG: Processing DF 0, Shape: (3109, 16)
+DEBUG: Source for DF 0: NSE
+
+Sample Data (First 5 rows):
+       SYMBOL                             SECTOR
+0   20MICRONS                Industrial Minerals
+1  21STCENMGM                            Unknown
+2      360ONE              Stockbroking & Allied
+3   3IINFOLTD  Computers - Software & Consulting
+4     3MINDIA                        Diversified
+Data saved locally to D:\Trading Workflows\data\processed_data_2026-02-19.csv
+Uploading 2416 rows to Google Sheet 'Stock_Data_ETL'...
+ERROR: Spreadsheet 'Stock_Data_ETL' not found.
+Please:
+  1. Manually create a Google Sheet named 'Stock_Data_ETL'
+  2. Share it with this service account email (Editor access):
+     ninad444@trade-data-automation.iam.gserviceaccount.com

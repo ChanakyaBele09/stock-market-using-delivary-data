@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+ETL Process Started for date: 2026-02-18
+Downloading NSE data for 2026-02-18 from https://nsearchives.nseindia.com/products/content/sec_bhavdata_full_18022026.csv...
+DEBUG: NSE Raw Rows: 3120
+Downloading BSE Price data for 2026-02-18...
+Failed to download BSE data: 404 Client Error: Not Found for url: https://www.bseindia.com/download/BhavCopy/Equity/EQ180226_CSV.ZIP
+DEBUG: Processing DF 0, Shape: (3120, 16)
+DEBUG: Source for DF 0: NSE
+  File "D:\Trading Workflows\src\main.py", line 331, in <module>
+    main()
+  File "D:\Trading Workflows\src\main.py", line 301, in main
+    final_df = process_data(dfs)
+               ^^^^^^^^^^^^^^^^^
+  File "D:\Trading Workflows\src\main.py", line 214, in process_data
+    if df['Source'].iloc[0] == 'NSE':
+       ~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\Ninad\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\indexing.py", line 1207, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ninad\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\indexing.py", line 1773, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\Ninad\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\indexing.py", line 1706, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds

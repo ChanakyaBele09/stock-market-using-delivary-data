@@ -1,0 +1,19 @@
+Testing for date: 2026-02-18
+--------------------
+Testing NSE Delivery URL: https://nsearchives.nseindia.com/products/content/sec_bhavdata_full_18022026.csv
+NSE Success!
+Columns: ['SYMBOL', ' SERIES', ' DATE1', ' PREV_CLOSE', ' OPEN_PRICE', ' HIGH_PRICE', ' LOW_PRICE', ' LAST_PRICE', ' CLOSE_PRICE', ' AVG_PRICE', ' TTL_TRD_QNTY', ' TURNOVER_LACS', ' NO_OF_TRADES', ' DELIV_QTY', ' DELIV_PER']
+       SYMBOL  SERIES         DATE1  ...   NO_OF_TRADES   DELIV_QTY   DELIV_PER
+0   20MICRONS      EQ   18-Feb-2026  ...           1933       23337       37.61
+1  21STCENMGM      EQ   18-Feb-2026  ...             93        5340       78.75
+
+[2 rows x 15 columns]
+--------------------
+Testing BSE Delivery URL: https://www.bseindia.com/BSEDATA/gross/2026/SCBSEALL1802.TXT
+BSE Download Success!
+BSE Columns: ['DATE', 'SCRIP CODE', 'DELIVERY QTY', 'DELIVERY VAL', "DAY'S VOLUME", "DAY'S TURNOVER", 'DELV. PER.']
+       DATE  SCRIP CODE  DELIVERY QTY  ...  DAY'S VOLUME  DAY'S TURNOVER  DELV. PER.
+0  18022026      977132             9  ...             9           87321       100.0
+1  18022026      977144            51  ...            51         5181103       100.0
+
+[2 rows x 7 columns]
